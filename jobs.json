@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-7974605",
+    "dedupeKey": "greenhouse:7974605",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Senior Staff Data Scientist - Consumer Relevance",
@@ -23,7 +23,7 @@
     "posted": "2026-06-30T00:34:43.000Z"
   },
   {
-    "slug": "greenhouse-7974647",
+    "dedupeKey": "greenhouse:7974647",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Senior Staff Data Scientist - Consumer Relevance",
@@ -45,7 +45,7 @@
     "posted": "2026-06-30T00:34:43.000Z"
   },
   {
-    "slug": "greenhouse-7839309",
+    "dedupeKey": "greenhouse:7839309",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Staff Data Scientist",
@@ -82,7 +82,7 @@
     "posted": "2026-06-29T20:38:10.000Z"
   },
   {
-    "slug": "greenhouse-5895430",
+    "dedupeKey": "greenhouse:5895430",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Scientist",
@@ -111,7 +111,7 @@
     "posted": "2026-06-29T20:36:42.000Z"
   },
   {
-    "slug": "greenhouse-8034894",
+    "dedupeKey": "greenhouse:8034894",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Product Data Scientist, Infrastructure",
@@ -137,7 +137,7 @@
     "posted": "2026-06-29T16:51:51.000Z"
   },
   {
-    "slug": "greenhouse-4663051006",
+    "dedupeKey": "greenhouse:4663051006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Sr. Data Scientist - Capacity Data",
@@ -166,59 +166,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134719725",
-    "company": "Seequalis",
-    "companyDomain": "seequalis.com",
-    "role": "Data Scientist Paris",
-    "applyUrl": "",
-    "location": "Paris, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "python",
-      "pandas",
-      "scikit-learn",
-      "xgboost",
-      "lightgbm",
-      "sql",
-      "spark",
-      "mlops",
-      "docker",
-      "kubernetes",
-      "mlflow",
-      "generative_ai",
-      "llm",
-      "rag"
-    ],
-    "posted": "2026-06-29T08:03:26.720Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134715328",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Consultant.e Data Expérimenté.e - Développement Régional Lille ",
-    "applyUrl": "",
-    "location": "Villeneuve-d'Ascq, Hauts-de-France, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "Talend",
-      "PowerBI",
-      "Looker",
-      "python",
-      "JAVA",
-      "GitLab",
-      "cloud",
-      "data analysis",
-      "data modeling",
-      "data visualization",
-      "solution design",
-      "client consulting"
-    ],
-    "posted": "2026-06-29T07:40:15.740Z"
-  },
-  {
-    "slug": "workday-jr202600620",
+    "dedupeKey": "workday:JR202600620",
     "company": "Tempus Labs",
     "companyDomain": "tempus.com",
     "role": "Sr. Business Intelligence Engineer",
@@ -241,7 +189,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29081",
+    "dedupeKey": "workday:R29081",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Data Scientist (Remote)",
@@ -285,7 +233,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr347968",
+    "dedupeKey": "workday:JR347968",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Analyst, Media Analytics",
@@ -310,7 +258,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7765818003",
+    "dedupeKey": "greenhouse:7765818003",
     "company": "Melio",
     "companyDomain": "meliopayments.com",
     "role": "Senior Data Scientist ",
@@ -331,7 +279,7 @@
     "posted": "2026-06-28T11:59:32.000Z"
   },
   {
-    "slug": "greenhouse-7748138003",
+    "dedupeKey": "greenhouse:7748138003",
     "company": "Melio",
     "companyDomain": "meliopayments.com",
     "role": "Data Scientist ",
@@ -350,39 +298,7 @@
     "posted": "2026-06-28T11:59:31.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134603279",
-    "company": "Freshworks",
-    "companyDomain": "freshworks.com",
-    "role": "Lead - Data Scientist",
-    "applyUrl": "",
-    "location": "Bengaluru, , India",
-    "remote": "unknown",
-    "level": "senior",
-    "skills": [
-      "generative ai",
-      "llm",
-      "nlp",
-      "prompt engineering",
-      "conversational ai",
-      "text2action",
-      "time series analysis",
-      "streaming data",
-      "machine learning",
-      "deep learning",
-      "transformers",
-      "knowledge graphs",
-      "hadoop",
-      "spark",
-      "sql",
-      "nosql",
-      "data pre-processing",
-      "model evaluation",
-      "mlops"
-    ],
-    "posted": "2026-06-27T13:36:13.236Z"
-  },
-  {
-    "slug": "greenhouse-8031948",
+    "dedupeKey": "greenhouse:8031948",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Manager, Data Analytics",
@@ -402,7 +318,7 @@
     "posted": "2026-06-27T03:43:48.000Z"
   },
   {
-    "slug": "greenhouse-8031947",
+    "dedupeKey": "greenhouse:8031947",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Manager, Data Analytics",
@@ -421,7 +337,7 @@
     "posted": "2026-06-27T03:41:37.000Z"
   },
   {
-    "slug": "greenhouse-8031946",
+    "dedupeKey": "greenhouse:8031946",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Manager, Data Analytics",
@@ -441,7 +357,7 @@
     "posted": "2026-06-27T03:41:00.000Z"
   },
   {
-    "slug": "greenhouse-8030866",
+    "dedupeKey": "greenhouse:8030866",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Manager, Data Analytics",
@@ -461,7 +377,7 @@
     "posted": "2026-06-27T03:35:06.000Z"
   },
   {
-    "slug": "greenhouse-8456277002",
+    "dedupeKey": "greenhouse:8456277002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Principal Data Scientist",
@@ -485,7 +401,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-7641390002",
+    "dedupeKey": "greenhouse:7641390002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Infrastructure Data Science",
@@ -511,7 +427,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7734812002",
+    "dedupeKey": "greenhouse:7734812002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Infrastructure Data Science",
@@ -540,7 +456,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-5634684002",
+    "dedupeKey": "greenhouse:5634684002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Data Scientist ",
@@ -568,7 +484,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-5507088002",
+    "dedupeKey": "greenhouse:5507088002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Data Scientist ",
@@ -596,7 +512,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-7069793002",
+    "dedupeKey": "greenhouse:7069793002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Data Scientist - Infrastructure",
@@ -622,7 +538,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8178287002",
+    "dedupeKey": "greenhouse:8178287002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": " Staff Data Scientist - Trust and Safety",
@@ -650,7 +566,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-4803082007",
+    "dedupeKey": "greenhouse:4803082007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, Test Analytics",
@@ -673,7 +589,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5170039007",
+    "dedupeKey": "greenhouse:5170039007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Data Analyst, Air Dominance & Strike",
@@ -695,7 +611,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5158247007",
+    "dedupeKey": "greenhouse:5158247007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Data Scientist, Air Dominance & Strike",
@@ -728,7 +644,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "workday-2601186",
+    "dedupeKey": "workday:2601186",
     "company": "Marvell Semiconductor",
     "companyDomain": "marvell.com",
     "role": "Staff Data Science Engineer - Hardware & Silicon Validation",
@@ -760,7 +676,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-6004765004",
+    "dedupeKey": "greenhouse:6004765004",
     "company": "BambooHR LLC",
     "companyDomain": "bamboohr.com",
     "role": "Sr. Analyst II, Marketing Business Intelligence",
@@ -779,7 +695,7 @@
     "posted": "2026-06-26T22:06:17.000Z"
   },
   {
-    "slug": "greenhouse-6004600004",
+    "dedupeKey": "greenhouse:6004600004",
     "company": "BambooHR LLC",
     "companyDomain": "bamboohr.com",
     "role": "Sr.Digital Analyst II",
@@ -802,7 +718,7 @@
     "posted": "2026-06-26T22:05:56.000Z"
   },
   {
-    "slug": "greenhouse-7943853",
+    "dedupeKey": "greenhouse:7943853",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Measurement Science Manager II",
@@ -826,7 +742,7 @@
     "posted": "2026-06-26T21:50:17.000Z"
   },
   {
-    "slug": "greenhouse-8031379",
+    "dedupeKey": "greenhouse:8031379",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Measurement Science Manager II",
@@ -850,7 +766,7 @@
     "posted": "2026-06-26T21:50:14.000Z"
   },
   {
-    "slug": "greenhouse-7951046",
+    "dedupeKey": "greenhouse:7951046",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Media Analytics Manager, Measurement & Attribution",
@@ -873,7 +789,7 @@
     "posted": "2026-06-26T21:50:11.000Z"
   },
   {
-    "slug": "greenhouse-8018297",
+    "dedupeKey": "greenhouse:8018297",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Scientist, Payments",
@@ -898,7 +814,7 @@
     "posted": "2026-06-26T21:05:49.000Z"
   },
   {
-    "slug": "greenhouse-7980402",
+    "dedupeKey": "greenhouse:7980402",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Scientist, Economic Insights & Research",
@@ -925,7 +841,7 @@
     "posted": "2026-06-26T21:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7923653",
+    "dedupeKey": "greenhouse:7923653",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Science Manager, Risk",
@@ -950,7 +866,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7839662",
+    "dedupeKey": "greenhouse:7839662",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "CoE Data & Insights",
@@ -975,7 +891,7 @@
     "posted": "2026-06-26T21:05:37.000Z"
   },
   {
-    "slug": "greenhouse-7801457",
+    "dedupeKey": "greenhouse:7801457",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Data Analyst",
@@ -1005,7 +921,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7921649",
+    "dedupeKey": "greenhouse:7921649",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Data Analyst",
@@ -1030,7 +946,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7568328",
+    "dedupeKey": "greenhouse:7568328",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Data Scientist",
@@ -1059,7 +975,7 @@
     "posted": "2026-06-26T21:05:31.000Z"
   },
   {
-    "slug": "greenhouse-7440963",
+    "dedupeKey": "greenhouse:7440963",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Science Manager, Finance and Strategy",
@@ -1083,7 +999,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7285974",
+    "dedupeKey": "greenhouse:7285974",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "PhD Data Scientist, Intern",
@@ -1106,7 +1022,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-5416444",
+    "dedupeKey": "greenhouse:5416444",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Analyst",
@@ -1130,7 +1046,7 @@
     "posted": "2026-06-26T21:05:19.000Z"
   },
   {
-    "slug": "greenhouse-6166982",
+    "dedupeKey": "greenhouse:6166982",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Data Analyst, Macro Analytics",
@@ -1161,7 +1077,7 @@
     "posted": "2026-06-26T21:05:19.000Z"
   },
   {
-    "slug": "greenhouse-5267515008",
+    "dedupeKey": "greenhouse:5267515008",
     "company": "Judi Health",
     "companyDomain": "judi.health",
     "role": "Government Programs Analysis & Efficiencies Analyst",
@@ -1179,7 +1095,7 @@
     "posted": "2026-06-26T20:50:58.000Z"
   },
   {
-    "slug": "greenhouse-8031397",
+    "dedupeKey": "greenhouse:8031397",
     "company": "SeatGeek",
     "companyDomain": "seatgeek.com",
     "role": "Senior Data Analyst, Product",
@@ -1206,7 +1122,7 @@
     "posted": "2026-06-26T20:46:52.000Z"
   },
   {
-    "slug": "greenhouse-8031396",
+    "dedupeKey": "greenhouse:8031396",
     "company": "SeatGeek",
     "companyDomain": "seatgeek.com",
     "role": "Senior Data Analyst, Product",
@@ -1234,7 +1150,7 @@
     "posted": "2026-06-26T20:46:50.000Z"
   },
   {
-    "slug": "greenhouse-7958522",
+    "dedupeKey": "greenhouse:7958522",
     "company": "Zocdoc",
     "companyDomain": "zocdoc.com",
     "role": "Senior Data Scientist, Marketing",
@@ -1256,7 +1172,7 @@
     "posted": "2026-06-26T20:12:43.000Z"
   },
   {
-    "slug": "greenhouse-7594577",
+    "dedupeKey": "greenhouse:7594577",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Data Scientist Intern",
@@ -1280,7 +1196,7 @@
     "posted": "2026-06-26T18:51:38.000Z"
   },
   {
-    "slug": "ashby-d81523c0-f4b2-468a-aecc-4f2642225c15",
+    "dedupeKey": "ashby:d81523c0-f4b2-468a-aecc-4f2642225c15",
     "company": "Brigit",
     "companyDomain": "hellobrigit.com",
     "role": "Director of Data Science",
@@ -1303,7 +1219,7 @@
     "posted": "2026-06-26T18:20:08.431Z"
   },
   {
-    "slug": "ashby-5255f419-5375-49f9-878b-dd3d5aeca25a",
+    "dedupeKey": "ashby:5255f419-5375-49f9-878b-dd3d5aeca25a",
     "company": "Horizon3 AI",
     "companyDomain": "horizon3.ai",
     "role": "Director of Analytics & Business Intelligence",
@@ -1323,7 +1239,7 @@
     "posted": "2026-06-26T18:09:33.693Z"
   },
   {
-    "slug": "greenhouse-4892885101",
+    "dedupeKey": "greenhouse:4892885101",
     "company": "Veeam",
     "companyDomain": "veeam.com",
     "role": "Data Scientist",
@@ -1357,7 +1273,7 @@
     "posted": "2026-06-26T14:00:00.000Z"
   },
   {
-    "slug": "lever-6dd3c7ad-6afe-422a-bc6d-789bd5d7c03a",
+    "dedupeKey": "lever:6dd3c7ad-6afe-422a-bc6d-789bd5d7c03a",
     "company": "CI&T",
     "companyDomain": "ciandt.com",
     "role": "[Job -  30085] Senior Data Scientist (LLM), Brazil",
@@ -1392,7 +1308,7 @@
     "posted": "2026-06-26T13:50:39.779Z"
   },
   {
-    "slug": "greenhouse-4949335",
+    "dedupeKey": "greenhouse:4949335",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist (I & II)",
@@ -1415,7 +1331,7 @@
     "posted": "2026-06-26T13:37:17.000Z"
   },
   {
-    "slug": "greenhouse-4949339",
+    "dedupeKey": "greenhouse:4949339",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist (I & II)",
@@ -1439,7 +1355,7 @@
     "posted": "2026-06-26T13:36:34.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134468229",
+    "dedupeKey": "smartrecruiters:744000134468229",
     "company": "AUTO1 Group",
     "companyDomain": "auto1.com",
     "role": "Data Scientist (f/m/x)",
@@ -1473,7 +1389,7 @@
     "posted": "2026-06-26T12:57:10.819Z"
   },
   {
-    "slug": "lever-3917ea83-4984-4792-85f3-894599152867",
+    "dedupeKey": "lever:3917ea83-4984-4792-85f3-894599152867",
     "company": "Flash Benefícios",
     "companyDomain": "flashapp.com.br",
     "role": "Analista de Inteligência Comercial",
@@ -1497,7 +1413,7 @@
     "posted": "2026-06-26T11:38:52.469Z"
   },
   {
-    "slug": "greenhouse-4881711101",
+    "dedupeKey": "greenhouse:4881711101",
     "company": "Ebury",
     "companyDomain": "ebury.com",
     "role": "Data Scientist ",
@@ -1526,7 +1442,7 @@
     "posted": "2026-06-26T09:14:58.000Z"
   },
   {
-    "slug": "greenhouse-4907033101",
+    "dedupeKey": "greenhouse:4907033101",
     "company": "Ebury",
     "companyDomain": "ebury.com",
     "role": "Senior Data Analyst - Treasury",
@@ -1554,7 +1470,7 @@
     "posted": "2026-06-26T09:14:58.000Z"
   },
   {
-    "slug": "ashby-1026c887-3b71-49e6-ae14-4e1f585c9e52",
+    "dedupeKey": "ashby:1026c887-3b71-49e6-ae14-4e1f585c9e52",
     "company": "Dex",
     "companyDomain": "meetdex.ai",
     "role": "Dex - Founding Data Scientist",
@@ -1575,7 +1491,7 @@
     "posted": "2026-06-26T06:08:30.655Z"
   },
   {
-    "slug": "lever-7e376574-6715-4226-99a8-c72d64d8a305",
+    "dedupeKey": "lever:7e376574-6715-4226-99a8-c72d64d8a305",
     "company": "PIGMENT",
     "companyDomain": "gopigment.com",
     "role": "Engineering Data Analyst",
@@ -1607,7 +1523,7 @@
     "posted": "2026-06-26T05:55:03.688Z"
   },
   {
-    "slug": "workday-r013425",
+    "dedupeKey": "workday:R013425",
     "company": "SailPoint",
     "companyDomain": "sailpoint.com",
     "role": "Sr. Business Intelligence Analyst",
@@ -1630,7 +1546,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r-1533",
+    "dedupeKey": "workday:R-1533",
     "company": "Cityblock Health",
     "companyDomain": "cityblock.com",
     "role": "Manager, Healthcare Analytics",
@@ -1657,7 +1573,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r-1528",
+    "dedupeKey": "workday:R-1528",
     "company": "Cityblock Health",
     "companyDomain": "cityblock.com",
     "role": "Senior Data Analyst, Advanced Analytics",
@@ -1682,7 +1598,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr343599",
+    "dedupeKey": "workday:JR343599",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Technical Data Analyst, Tableau/ Business Intelligence Solutions",
@@ -1713,7 +1629,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "ashby-9d542b12-ed98-4d8f-8999-b594664a0401",
+    "dedupeKey": "ashby:9d542b12-ed98-4d8f-8999-b594664a0401",
     "company": "Ignite Reading",
     "companyDomain": "ignite-reading.com",
     "role": "Senior Manager, Product & Program Analytics",
@@ -1734,7 +1650,7 @@
     "posted": "2026-06-25T22:50:06.747Z"
   },
   {
-    "slug": "greenhouse-7922933",
+    "dedupeKey": "greenhouse:7922933",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Staff Data Scientist, Sales Analytics",
@@ -1756,7 +1672,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "ashby-71f44aec-7b3c-4449-a705-9bf55943f689",
+    "dedupeKey": "ashby:71f44aec-7b3c-4449-a705-9bf55943f689",
     "company": "Helion",
     "companyDomain": "helionenergy.com",
     "role": "Senior Data Scientist – Fusion Systems",
@@ -1779,7 +1695,7 @@
     "posted": "2026-06-25T21:01:54.830Z"
   },
   {
-    "slug": "greenhouse-8495229002",
+    "dedupeKey": "greenhouse:8495229002",
     "company": "Alloy",
     "companyDomain": "alloy.com",
     "role": "Senior Data Scientist, Predict",
@@ -1799,7 +1715,7 @@
     "posted": "2026-06-25T21:00:19.000Z"
   },
   {
-    "slug": "greenhouse-4679337006",
+    "dedupeKey": "greenhouse:4679337006",
     "company": "Everlaw",
     "companyDomain": "everlaw.com",
     "role": "Data Analyst ",
@@ -1824,7 +1740,7 @@
     "posted": "2026-06-25T21:00:11.000Z"
   },
   {
-    "slug": "greenhouse-8588793002",
+    "dedupeKey": "greenhouse:8588793002",
     "company": "Verana Health",
     "companyDomain": "veranahealth.com",
     "role": "Senior Quantitative Scientist, Commercial-Facing",
@@ -1846,7 +1762,7 @@
     "posted": "2026-06-25T20:43:30.000Z"
   },
   {
-    "slug": "ashby-9338bd61-b892-474b-964b-6e5c22285c48",
+    "dedupeKey": "ashby:9338bd61-b892-474b-964b-6e5c22285c48",
     "company": "Brigit",
     "companyDomain": "hellobrigit.com",
     "role": "Director of Data Science",
@@ -1869,7 +1785,7 @@
     "posted": "2026-06-25T20:25:20.295Z"
   },
   {
-    "slug": "greenhouse-6092778004",
+    "dedupeKey": "greenhouse:6092778004",
     "company": "LevelTen Energy",
     "companyDomain": "leveltenenergy.com",
     "role": "Energy Data Analyst",
@@ -1887,7 +1803,7 @@
     "posted": "2026-06-25T19:08:36.000Z"
   },
   {
-    "slug": "greenhouse-8586430002",
+    "dedupeKey": "greenhouse:8586430002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Data Scientist, Growth Product",
@@ -1909,7 +1825,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8565199002",
+    "dedupeKey": "greenhouse:8565199002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Insights Analyst, Dispute Experience",
@@ -1930,7 +1846,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8576707002",
+    "dedupeKey": "greenhouse:8576707002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Lead Data Analyst, MyPay",
@@ -1950,7 +1866,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8586440002",
+    "dedupeKey": "greenhouse:8586440002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Senior Data Scientist, Growth Product",
@@ -1974,7 +1890,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8586462002",
+    "dedupeKey": "greenhouse:8586462002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Senior Data Scientist, Spending",
@@ -1994,7 +1910,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8586463002",
+    "dedupeKey": "greenhouse:8586463002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Senior Data Scientist, Trust & Safety",
@@ -2017,62 +1933,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134297456",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Lead Data Scientist - Contact Automation",
-    "applyUrl": "",
-    "location": "London, , United Kingdom",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "llm",
-      "agents",
-      "rag",
-      "prompt_engineering",
-      "evaluation",
-      "a_b_testing",
-      "python",
-      "sql",
-      "snowflake",
-      "agentic_workflows",
-      "langgraph",
-      "tool_use",
-      "function_calling",
-      "data_visualization",
-      "bayesian_inference"
-    ],
-    "posted": "2026-06-25T15:36:57.297Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134297388",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Data Science Lead - AML Risk",
-    "applyUrl": "",
-    "location": "London, , United Kingdom",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "python",
-      "machine_learning",
-      "unsupervised_learning",
-      "supervised_learning",
-      "genai",
-      "llm",
-      "agents",
-      "financial_crime",
-      "risk_management",
-      "data_science",
-      "statistical_analysis",
-      "experiment_design",
-      "product_mindset",
-      "oop"
-    ],
-    "posted": "2026-06-25T15:35:12.977Z"
-  },
-  {
-    "slug": "ashby-8818dddd-3d95-4923-9abf-2e7d54110d17",
+    "dedupeKey": "ashby:8818dddd-3d95-4923-9abf-2e7d54110d17",
     "company": "Foursquare",
     "companyDomain": "foursquare.com",
     "role": "Customer Analytics Lead",
@@ -2093,48 +1954,7 @@
     "posted": "2026-06-25T11:45:23.102Z"
   },
   {
-    "slug": "smartrecruiters-744000134238689",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Werkstudent Data & Analytics im Public Sektor (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "sql",
-      "python",
-      "data modeling",
-      "reporting",
-      "dashboarding",
-      "data analysis",
-      "data warehousing",
-      "sap analytics",
-      "big data"
-    ],
-    "posted": "2026-06-25T11:16:11.452Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134234144",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Data Junior con francés",
-    "applyUrl": "",
-    "location": "Madrid, MADRID, Spain",
-    "remote": "onsite",
-    "level": "intern",
-    "skills": [
-      "python",
-      "java",
-      "dotnet",
-      "sql",
-      "data analysis",
-      "french"
-    ],
-    "posted": "2026-06-25T10:52:47.977Z"
-  },
-  {
-    "slug": "greenhouse-8607588002",
+    "dedupeKey": "greenhouse:8607588002",
     "company": "Amplitude",
     "companyDomain": "amplitude.com",
     "role": "Customer Data Scientist (Statsig)",
@@ -2158,7 +1978,7 @@
     "posted": "2026-06-25T09:43:45.000Z"
   },
   {
-    "slug": "ashby-7ea554f4-47e4-4f85-8c19-2aa635d09e7e",
+    "dedupeKey": "ashby:7ea554f4-47e4-4f85-8c19-2aa635d09e7e",
     "company": "Paddle",
     "companyDomain": "paddle.com",
     "role": "Staff Insights Analyst",
@@ -2174,7 +1994,7 @@
     "posted": "2026-06-25T09:32:10.384Z"
   },
   {
-    "slug": "ashby-031532d0-f8f8-40cd-96e6-b6164effb04e",
+    "dedupeKey": "ashby:031532d0-f8f8-40cd-96e6-b6164effb04e",
     "company": "Paddle",
     "companyDomain": "paddle.com",
     "role": "Staff Insights Analyst",
@@ -2190,7 +2010,7 @@
     "posted": "2026-06-25T09:32:07.115Z"
   },
   {
-    "slug": "greenhouse-8023118",
+    "dedupeKey": "greenhouse:8023118",
     "company": "Airbnb",
     "companyDomain": "airbnb.com",
     "role": "Lead Advanced Analytics, Marketplace",
@@ -2218,7 +2038,7 @@
     "posted": "2026-06-25T05:44:11.000Z"
   },
   {
-    "slug": "workday-r19103",
+    "dedupeKey": "workday:R19103",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Senior Data Scientist",
@@ -2248,7 +2068,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-2026192",
+    "dedupeKey": "workday:JR-2026192",
     "company": "ArianeGroup",
     "companyDomain": "ariane.group",
     "role": "ALTERNANCE - Ingénieure / Ingénieur en analyse et traitement de données avec intégration d’IA par pipeline et gestion de programme sur Ariane 6",
@@ -2272,7 +2092,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr343956",
+    "dedupeKey": "workday:JR343956",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Decision Scientist Lead",
@@ -2299,7 +2119,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-018164",
+    "dedupeKey": "workday:JR-018164",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Senior Staff Data Scientist (AI Solutions - Machines)",
@@ -2326,7 +2146,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "ashby-4f6e5057-28d6-4d51-a1fc-6825f967834b",
+    "dedupeKey": "ashby:4f6e5057-28d6-4d51-a1fc-6825f967834b",
     "company": "Brigit",
     "companyDomain": "hellobrigit.com",
     "role": "Senior Data Analyst, Credit",
@@ -2350,7 +2170,7 @@
     "posted": "2026-06-24T22:50:42.912Z"
   },
   {
-    "slug": "greenhouse-6099173004",
+    "dedupeKey": "greenhouse:6099173004",
     "company": "Twin Health",
     "companyDomain": "twinhealth.com",
     "role": "Product Analytics Engineer",
@@ -2375,7 +2195,7 @@
     "posted": "2026-06-24T22:17:24.000Z"
   },
   {
-    "slug": "greenhouse-8027306",
+    "dedupeKey": "greenhouse:8027306",
     "company": "Squarespace",
     "companyDomain": "squarespace.com",
     "role": "Senior Analyst, Product Analytics",
@@ -2398,7 +2218,7 @@
     "posted": "2026-06-24T20:56:34.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134030139",
+    "dedupeKey": "smartrecruiters:744000134030139",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Managing Staff, Clinical Data Science",
@@ -2424,7 +2244,7 @@
     "posted": "2026-06-24T20:40:45.180Z"
   },
   {
-    "slug": "greenhouse-8001889",
+    "dedupeKey": "greenhouse:8001889",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Insights Manager II",
@@ -2440,7 +2260,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-8001891",
+    "dedupeKey": "greenhouse:8001891",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Insights Manager II",
@@ -2456,7 +2276,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7977344",
+    "dedupeKey": "greenhouse:7977344",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist II - Core Delivery",
@@ -2478,7 +2298,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7977331",
+    "dedupeKey": "greenhouse:7977331",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist II - Core Delivery",
@@ -2500,7 +2320,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7819163",
+    "dedupeKey": "greenhouse:7819163",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist - Shopping Experience (Search)",
@@ -2530,7 +2350,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7819293",
+    "dedupeKey": "greenhouse:7819293",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Data Scientist - Shopping Experience (Search)",
@@ -2555,7 +2375,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7875637",
+    "dedupeKey": "greenhouse:7875637",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Director, Media Analytics, Commercial Strategy & Acceleration",
@@ -2579,7 +2399,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7875639",
+    "dedupeKey": "greenhouse:7875639",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Director, Media Analytics, Commercial Strategy & Acceleration",
@@ -2602,7 +2422,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7963780",
+    "dedupeKey": "greenhouse:7963780",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Marketing Decision Scientist II",
@@ -2651,7 +2471,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7963779",
+    "dedupeKey": "greenhouse:7963779",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Marketing Decision Scientist II",
@@ -2682,7 +2502,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7958121",
+    "dedupeKey": "greenhouse:7958121",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior People Data Scientist",
@@ -2707,7 +2527,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7958122",
+    "dedupeKey": "greenhouse:7958122",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior People Data Scientist",
@@ -2731,7 +2551,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7412037",
+    "dedupeKey": "greenhouse:7412037",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Senior Data Scientist, Fraud ",
@@ -2752,7 +2572,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7997218",
+    "dedupeKey": "greenhouse:7997218",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Staff Data Scientist,  ML (Credit Risk)",
@@ -2769,7 +2589,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-4690092006",
+    "dedupeKey": "greenhouse:4690092006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Manager, Analytics",
@@ -2789,7 +2609,7 @@
     "posted": "2026-06-24T19:31:31.000Z"
   },
   {
-    "slug": "greenhouse-7898849",
+    "dedupeKey": "greenhouse:7898849",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Digital Analyst",
@@ -2806,7 +2626,7 @@
     "posted": "2026-06-24T18:05:50.000Z"
   },
   {
-    "slug": "greenhouse-7780488",
+    "dedupeKey": "greenhouse:7780488",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Data Analyst (Auth0)",
@@ -2830,7 +2650,7 @@
     "posted": "2026-06-24T18:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7731263",
+    "dedupeKey": "greenhouse:7731263",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Data Analyst",
@@ -2851,7 +2671,7 @@
     "posted": "2026-06-24T18:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7582967",
+    "dedupeKey": "greenhouse:7582967",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Data Analyst",
@@ -2872,7 +2692,7 @@
     "posted": "2026-06-24T18:05:29.000Z"
   },
   {
-    "slug": "ashby-c43bdded-80a1-4705-a0ec-8217d771528c",
+    "dedupeKey": "ashby:c43bdded-80a1-4705-a0ec-8217d771528c",
     "company": "Cursor (Anysphere)",
     "companyDomain": "anysphere.inc",
     "role": "Data Analyst, User Operations",
@@ -2887,7 +2707,7 @@
     "posted": "2026-06-24T17:44:18.151Z"
   },
   {
-    "slug": "ashby-9555becf-b44b-4c7d-8425-4987b16bf17a",
+    "dedupeKey": "ashby:9555becf-b44b-4c7d-8425-4987b16bf17a",
     "company": "SentiLink",
     "companyDomain": "sentilink.com",
     "role": "Data Science Manager - Application Fraud",
@@ -2907,7 +2727,7 @@
     "posted": "2026-06-24T16:53:57.494Z"
   },
   {
-    "slug": "greenhouse-5278791008",
+    "dedupeKey": "greenhouse:5278791008",
     "company": "K2 Space",
     "companyDomain": "k2space.com",
     "role": "Senior Data Analyst",
@@ -2926,7 +2746,7 @@
     "posted": "2026-06-24T15:49:06.000Z"
   },
   {
-    "slug": "ashby-193ecf91-5c70-4880-bd3f-ccb0bfbbd070",
+    "dedupeKey": "ashby:193ecf91-5c70-4880-bd3f-ccb0bfbbd070",
     "company": "Motorway",
     "companyDomain": "motorway.co.uk",
     "role": "BI Data Analyst",
@@ -2947,7 +2767,7 @@
     "posted": "2026-06-24T15:03:44.638Z"
   },
   {
-    "slug": "greenhouse-8009392",
+    "dedupeKey": "greenhouse:8009392",
     "company": "Coinbase",
     "companyDomain": "coinbase.com",
     "role": "Senior Data Scientist, CX Analytics",
@@ -2971,7 +2791,7 @@
     "posted": "2026-06-24T14:31:37.000Z"
   },
   {
-    "slug": "greenhouse-5154821004",
+    "dedupeKey": "greenhouse:5154821004",
     "company": "Array",
     "companyDomain": "array.com",
     "role": "Senior Data Analyst",
@@ -2988,28 +2808,7 @@
     "posted": "2026-06-24T13:26:48.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133936778",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Data Analyst",
-    "applyUrl": "",
-    "location": "Stavanger, , Norway",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "sql",
-      "bi",
-      "power_bi",
-      "data_analysis",
-      "dashboarding",
-      "reporting",
-      "python",
-      "r"
-    ],
-    "posted": "2026-06-24T12:30:23.955Z"
-  },
-  {
-    "slug": "greenhouse-6011727004",
+    "dedupeKey": "greenhouse:6011727004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Data Curator, London",
@@ -3038,7 +2837,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "ashby-29ab5b82-f0ad-43e0-a27b-77a27726c6f8",
+    "dedupeKey": "ashby:29ab5b82-f0ad-43e0-a27b-77a27726c6f8",
     "company": "Dex",
     "companyDomain": "meetdex.ai",
     "role": "Founding Data Scientist",
@@ -3058,7 +2857,7 @@
     "posted": "2026-06-24T10:11:12.061Z"
   },
   {
-    "slug": "lever-18878652-10dd-44dd-a26a-945ba0c4fe69",
+    "dedupeKey": "lever:18878652-10dd-44dd-a26a-945ba0c4fe69",
     "company": "CI&T",
     "companyDomain": "ciandt.com",
     "role": "[Job-30104] Senior Data Science, Brazil",
@@ -3085,32 +2884,7 @@
     "posted": "2026-06-24T09:15:30.905Z"
   },
   {
-    "slug": "smartrecruiters-744000133874862",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Ingénieur(e) Data Scientist confirmé(e) - Industrie - Le Plessis Robinson",
-    "applyUrl": "",
-    "location": "Le Plessis-Robinson, IDF, France",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "python",
-      "sql",
-      "aws",
-      "azure",
-      "gcp",
-      "git",
-      "machine_learning",
-      "deep_learning",
-      "generative_ai",
-      "llm",
-      "rag",
-      "computer_vision"
-    ],
-    "posted": "2026-06-24T07:22:57.243Z"
-  },
-  {
-    "slug": "greenhouse-8021303",
+    "dedupeKey": "greenhouse:8021303",
     "company": "Twilio",
     "companyDomain": "twilio.com",
     "role": "Product Data Analyst (L3)",
@@ -3134,7 +2908,7 @@
     "posted": "2026-06-24T04:44:43.000Z"
   },
   {
-    "slug": "greenhouse-6491935003",
+    "dedupeKey": "greenhouse:6491935003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Senior Data Analyst",
@@ -3157,7 +2931,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-7765198003",
+    "dedupeKey": "greenhouse:7765198003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Business Data Analyst",
@@ -3178,7 +2952,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "workday-jr0285063",
+    "dedupeKey": "workday:JR0285063",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Data Scientist",
@@ -3200,7 +2974,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0006699",
+    "dedupeKey": "workday:R0006699",
     "company": "Lending Club",
     "companyDomain": "lendingclub.com",
     "role": "VP, Modeling & Data Science",
@@ -3236,7 +3010,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r65511",
+    "dedupeKey": "workday:R65511",
     "company": "Motorola Solutions",
     "companyDomain": "motorolasolutions.com",
     "role": "Sr. Data Scientist",
@@ -3263,7 +3037,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r65507",
+    "dedupeKey": "workday:R65507",
     "company": "Motorola Solutions",
     "companyDomain": "motorolasolutions.com",
     "role": "Data Scientist",
@@ -3286,7 +3060,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr340530",
+    "dedupeKey": "workday:JR340530",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Data Analyst/AI - 6 months Interns - September 2026",
@@ -3311,7 +3085,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-584001",
+    "dedupeKey": "workday:584001",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "Data Scientist (ML/AI)",
@@ -3343,7 +3117,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7780518003",
+    "dedupeKey": "greenhouse:7780518003",
     "company": "Descript",
     "companyDomain": "descript.com",
     "role": "Lead Data Scientist, Product ",
@@ -3362,7 +3136,7 @@
     "posted": "2026-06-23T23:54:50.000Z"
   },
   {
-    "slug": "ashby-804901fc-1155-47b7-8c88-179aff855c8a",
+    "dedupeKey": "ashby:804901fc-1155-47b7-8c88-179aff855c8a",
     "company": "Brigit",
     "companyDomain": "hellobrigit.com",
     "role": "Senior Data Analyst, Payments Platform",
@@ -3382,7 +3156,7 @@
     "posted": "2026-06-23T22:02:19.392Z"
   },
   {
-    "slug": "greenhouse-8604960002",
+    "dedupeKey": "greenhouse:8604960002",
     "company": "Artefact",
     "companyDomain": "artefact.com",
     "role": "Senior Data Scientist ",
@@ -3410,7 +3184,7 @@
     "posted": "2026-06-23T20:48:44.000Z"
   },
   {
-    "slug": "greenhouse-7702330003",
+    "dedupeKey": "greenhouse:7702330003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Lead Data Science Analyst, GTM Strategic Analytics and Insights",
@@ -3447,7 +3221,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7687789003",
+    "dedupeKey": "greenhouse:7687789003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Lead Data Science Analyst, GTM Strategic Analytics and Insights",
@@ -3484,7 +3258,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "ashby-380e2721-5715-476b-8707-c43f268a4b6f",
+    "dedupeKey": "ashby:380e2721-5715-476b-8707-c43f268a4b6f",
     "company": "Front",
     "companyDomain": "frontapp.com",
     "role": "Product Analytics Lead",
@@ -3502,7 +3276,7 @@
     "posted": "2026-06-23T20:42:26.154Z"
   },
   {
-    "slug": "ashby-b6590f51-c14f-47cb-a1df-8bdf82b0797e",
+    "dedupeKey": "ashby:b6590f51-c14f-47cb-a1df-8bdf82b0797e",
     "company": "Ignite Reading",
     "companyDomain": "ignite-reading.com",
     "role": "Senior Data Scientist",
@@ -3522,7 +3296,7 @@
     "posted": "2026-06-23T16:45:29.698Z"
   },
   {
-    "slug": "ashby-bbaf8b97-e7a0-4a1d-810d-abab04f45250",
+    "dedupeKey": "ashby:bbaf8b97-e7a0-4a1d-810d-abab04f45250",
     "company": "ARQ",
     "companyDomain": "arqfinance.com",
     "role": "Senior Data Scientist",
@@ -3543,7 +3317,7 @@
     "posted": "2026-06-23T15:54:02.709Z"
   },
   {
-    "slug": "greenhouse-7881815",
+    "dedupeKey": "greenhouse:7881815",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Senior Data Scientist",
@@ -3561,7 +3335,7 @@
     "posted": "2026-06-23T15:33:18.000Z"
   },
   {
-    "slug": "greenhouse-8023162",
+    "dedupeKey": "greenhouse:8023162",
     "company": "Monzo Bank",
     "companyDomain": "monzo.com",
     "role": "Credit Model Validation Manager",
@@ -3582,7 +3356,7 @@
     "posted": "2026-06-23T14:40:39.000Z"
   },
   {
-    "slug": "greenhouse-8023514",
+    "dedupeKey": "greenhouse:8023514",
     "company": "Enova",
     "companyDomain": "enova.com",
     "role": "Data Analytics Intern (Hybrid)",
@@ -3602,7 +3376,7 @@
     "posted": "2026-06-23T14:39:27.000Z"
   },
   {
-    "slug": "greenhouse-7780185003",
+    "dedupeKey": "greenhouse:7780185003",
     "company": "CookUnity",
     "companyDomain": "cookunity.com",
     "role": "Senior Data Scientist, Retention & Product",
@@ -3632,62 +3406,7 @@
     "posted": "2026-06-23T12:29:21.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133570950",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Data Scientist",
-    "applyUrl": "",
-    "location": "Stavanger, , Norway",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "python",
-      "sql",
-      "statistics",
-      "data visualization",
-      "machine learning",
-      "generative ai",
-      "llm",
-      "agents",
-      "cloud platforms",
-      "data platforms",
-      "microsoft fabric",
-      "databricks",
-      "azure",
-      "aws",
-      "gcp",
-      "model deployment",
-      "analytics",
-      "business intelligence"
-    ],
-    "posted": "2026-06-23T11:37:34.810Z"
-  },
-  {
-    "slug": "smartrecruiters-744000133545459",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Ingénieur(e) Data Scientist confirmé(e) - Industrie - Toulouse",
-    "applyUrl": "",
-    "location": "Toulouse, Occitanie, France",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "python",
-      "java",
-      "spark",
-      "time series analysis",
-      "data mining",
-      "machine learning",
-      "big data",
-      "palantir foundry",
-      "predictive maintenance",
-      "data intelligence",
-      "digitalization"
-    ],
-    "posted": "2026-06-23T09:16:45.730Z"
-  },
-  {
-    "slug": "greenhouse-7777174003",
+    "dedupeKey": "greenhouse:7777174003",
     "company": "Tide",
     "companyDomain": "tide.co",
     "role": "Staff Data Scientist (Fraud & Risk)",
@@ -3721,7 +3440,7 @@
     "posted": "2026-06-23T08:10:42.000Z"
   },
   {
-    "slug": "ashby-071824a1-5908-465c-922d-47e663fbd656",
+    "dedupeKey": "ashby:071824a1-5908-465c-922d-47e663fbd656",
     "company": "Billie",
     "companyDomain": "billie.io",
     "role": "Fraud Data Scientist",
@@ -3759,7 +3478,7 @@
     "posted": "2026-06-23T07:08:28.945Z"
   },
   {
-    "slug": "workday-jr-0108084",
+    "dedupeKey": "workday:JR-0108084",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Responsible AI Senior Data Scientist",
@@ -3794,7 +3513,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "ashby-916dcf42-d69a-4f00-875a-f8fe630e0f33",
+    "dedupeKey": "ashby:916dcf42-d69a-4f00-875a-f8fe630e0f33",
     "company": "Centerfield",
     "companyDomain": "centerfield.com",
     "role": "Data Science Intern",
@@ -3822,7 +3541,7 @@
     "posted": "2026-06-22T23:40:41.081Z"
   },
   {
-    "slug": "ashby-1f9c3666-82c8-45a7-8d4b-633a265ce996",
+    "dedupeKey": "ashby:1f9c3666-82c8-45a7-8d4b-633a265ce996",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Data Scientist, Identity",
@@ -3840,7 +3559,7 @@
     "posted": "2026-06-22T22:33:26.193Z"
   },
   {
-    "slug": "greenhouse-7776746003",
+    "dedupeKey": "greenhouse:7776746003",
     "company": "CookUnity",
     "companyDomain": "cookunity.com",
     "role": "Director, Data Science/ML",
@@ -3869,7 +3588,7 @@
     "posted": "2026-06-22T22:15:21.000Z"
   },
   {
-    "slug": "ashby-5f17444c-fea7-4394-8bab-6284b46f1a1c",
+    "dedupeKey": "ashby:5f17444c-fea7-4394-8bab-6284b46f1a1c",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Director of AI Analytics & CEO Office",
@@ -3893,7 +3612,7 @@
     "posted": "2026-06-22T20:13:59.414Z"
   },
   {
-    "slug": "greenhouse-7655695",
+    "dedupeKey": "greenhouse:7655695",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Senior Data Scientist",
@@ -3917,7 +3636,7 @@
     "posted": "2026-06-22T17:46:06.000Z"
   },
   {
-    "slug": "ashby-7a7cf044-5c1a-408c-ae78-3574a1aab7ca",
+    "dedupeKey": "ashby:7a7cf044-5c1a-408c-ae78-3574a1aab7ca",
     "company": "Neo Financial",
     "companyDomain": "neofinancial.com",
     "role": "Director of Data Analytics ",
@@ -3939,7 +3658,7 @@
     "posted": "2026-06-22T17:23:15.578Z"
   },
   {
-    "slug": "ashby-1cc70caa-efb5-454c-b387-066bcc47fe40",
+    "dedupeKey": "ashby:1cc70caa-efb5-454c-b387-066bcc47fe40",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Associate Data Scientist",
@@ -3957,7 +3676,7 @@
     "posted": "2026-06-22T16:50:27.337Z"
   },
   {
-    "slug": "ashby-839c4677-34e6-4ba2-ade2-6e4c4fba0414",
+    "dedupeKey": "ashby:839c4677-34e6-4ba2-ade2-6e4c4fba0414",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Associate Data Scientist",
@@ -3976,7 +3695,7 @@
     "posted": "2026-06-22T16:49:40.178Z"
   },
   {
-    "slug": "ashby-672d535a-8d00-43d5-8a10-2e317f8e236c",
+    "dedupeKey": "ashby:672d535a-8d00-43d5-8a10-2e317f8e236c",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Data Scientist",
@@ -3995,7 +3714,7 @@
     "posted": "2026-06-22T16:47:16.633Z"
   },
   {
-    "slug": "ashby-3c37280e-868a-4efd-89df-1db31d840de4",
+    "dedupeKey": "ashby:3c37280e-868a-4efd-89df-1db31d840de4",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Data Scientist",
@@ -4014,7 +3733,7 @@
     "posted": "2026-06-22T16:46:24.670Z"
   },
   {
-    "slug": "ashby-d4991a64-90b5-44ea-bce8-8907afcda81b",
+    "dedupeKey": "ashby:d4991a64-90b5-44ea-bce8-8907afcda81b",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Senior Data Scientist",
@@ -4032,7 +3751,7 @@
     "posted": "2026-06-22T16:45:20.585Z"
   },
   {
-    "slug": "ashby-fc5438ae-adb4-4b05-a575-e65860f1308a",
+    "dedupeKey": "ashby:fc5438ae-adb4-4b05-a575-e65860f1308a",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Senior Data Scientist",
@@ -4050,7 +3769,7 @@
     "posted": "2026-06-22T16:43:40.633Z"
   },
   {
-    "slug": "ashby-11859491-97ce-418f-81de-7430f696fcbc",
+    "dedupeKey": "ashby:11859491-97ce-418f-81de-7430f696fcbc",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Staff Data Scientist",
@@ -4070,7 +3789,7 @@
     "posted": "2026-06-22T16:42:49.335Z"
   },
   {
-    "slug": "ashby-dd614516-efef-48f6-8302-631e0697c279",
+    "dedupeKey": "ashby:dd614516-efef-48f6-8302-631e0697c279",
     "company": "Jerry.ai",
     "companyDomain": "jerry.ai",
     "role": "Staff Data Scientist",
@@ -4090,7 +3809,7 @@
     "posted": "2026-06-22T16:41:35.554Z"
   },
   {
-    "slug": "greenhouse-5020783008",
+    "dedupeKey": "greenhouse:5020783008",
     "company": "Newton Research",
     "companyDomain": "newtonresearch.ai",
     "role": "Data Scientist",
@@ -4110,7 +3829,7 @@
     "posted": "2026-06-22T16:20:25.000Z"
   },
   {
-    "slug": "greenhouse-4062770009",
+    "dedupeKey": "greenhouse:4062770009",
     "company": "Govini",
     "companyDomain": "govini.com",
     "role": "Data Scientist",
@@ -4132,7 +3851,7 @@
     "posted": "2026-06-22T15:55:17.000Z"
   },
   {
-    "slug": "greenhouse-7598830",
+    "dedupeKey": "greenhouse:7598830",
     "company": "Cambridge Mobile Telematics",
     "companyDomain": "cmtelematics.com",
     "role": "Principal Data Scientist, Customer Analytics",
@@ -4156,7 +3875,7 @@
     "posted": "2026-06-22T15:13:53.000Z"
   },
   {
-    "slug": "ashby-11f7810f-926f-4f9a-b59f-2a7542169cde",
+    "dedupeKey": "ashby:11f7810f-926f-4f9a-b59f-2a7542169cde",
     "company": "Fundamental",
     "companyDomain": "fundamental.tech",
     "role": "Data Scientist - Extensions ",
@@ -4180,7 +3899,7 @@
     "posted": "2026-06-22T14:09:03.192Z"
   },
   {
-    "slug": "workday-jr2019886",
+    "dedupeKey": "workday:JR2019886",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Principal Data Scientist - Cloud Gaming and AI",
@@ -4218,7 +3937,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "workday-r1530250",
+    "dedupeKey": "workday:R1530250",
     "company": "IQVIA",
     "companyDomain": "iqvia.com",
     "role": "Senior Data Scientist  (m/w/d)",
@@ -4242,7 +3961,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7769463003",
+    "dedupeKey": "greenhouse:7769463003",
     "company": "SentinelOne",
     "companyDomain": "sentinelone.com",
     "role": "Staff Data Scientist",
@@ -4261,7 +3980,7 @@
     "posted": "2026-06-21T06:06:16.000Z"
   },
   {
-    "slug": "workday-jr-018260",
+    "dedupeKey": "workday:JR-018260",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Data Science Manager (AI Solutions-Machines)",
@@ -4293,7 +4012,7 @@
     "posted": "2026-06-21T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7825290",
+    "dedupeKey": "greenhouse:7825290",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Associate, Data Analytics (Atlanta, GA- Remote)",
@@ -4313,7 +4032,7 @@
     "posted": "2026-06-19T18:58:03.000Z"
   },
   {
-    "slug": "greenhouse-8002300",
+    "dedupeKey": "greenhouse:8002300",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Data Scientist",
@@ -4339,7 +4058,7 @@
     "posted": "2026-06-19T18:39:05.000Z"
   },
   {
-    "slug": "breezy-148365e3be7501",
+    "dedupeKey": "breezy:148365e3be7501",
     "company": "Transak",
     "companyDomain": "transak.com",
     "role": "Data Scientist, London",
@@ -4366,7 +4085,7 @@
     "posted": "2026-06-19T11:04:54.593Z"
   },
   {
-    "slug": "recruitee-2648074",
+    "dedupeKey": "recruitee:2648074",
     "company": "Greyparrot AI",
     "companyDomain": "greyparrot.ai",
     "role": "Lead Data Scientist",
@@ -4392,7 +4111,7 @@
     "posted": "2026-06-19T08:25:53.000Z"
   },
   {
-    "slug": "ashby-a55afaea-1181-4057-9fe3-f6724ed95f1b",
+    "dedupeKey": "ashby:a55afaea-1181-4057-9fe3-f6724ed95f1b",
     "company": "Aspora",
     "companyDomain": "aspora.com",
     "role": "Senior Product Analytics",
@@ -4416,7 +4135,7 @@
     "posted": "2026-06-19T06:34:51.992Z"
   },
   {
-    "slug": "ashby-bc44f6a7-dd97-49a2-80b1-d340c37ecae5",
+    "dedupeKey": "ashby:bc44f6a7-dd97-49a2-80b1-d340c37ecae5",
     "company": "Upside",
     "companyDomain": "upside.com",
     "role": "Senior Merchant Analytics Manager",
@@ -4433,7 +4152,7 @@
     "posted": "2026-06-19T01:17:45.645Z"
   },
   {
-    "slug": "ashby-1321b20d-d6f8-4bdb-b2de-ec33c0948b53",
+    "dedupeKey": "ashby:1321b20d-d6f8-4bdb-b2de-ec33c0948b53",
     "company": "Harvey",
     "companyDomain": "harvey.ai",
     "role": "Data Scientist, Product",
@@ -4453,7 +4172,7 @@
     "posted": "2026-06-18T23:21:52.287Z"
   },
   {
-    "slug": "greenhouse-8600045002",
+    "dedupeKey": "greenhouse:8600045002",
     "company": "Amplitude",
     "companyDomain": "amplitude.com",
     "role": "Customer Data Scientist (Statsig)",
@@ -4479,7 +4198,7 @@
     "posted": "2026-06-18T23:11:28.000Z"
   },
   {
-    "slug": "ashby-49a62752-3d88-46d1-8c43-48a4a0840d91",
+    "dedupeKey": "ashby:49a62752-3d88-46d1-8c43-48a4a0840d91",
     "company": "Rox",
     "companyDomain": "rox.com",
     "role": "Data Scientist (Growth)",
@@ -4501,7 +4220,7 @@
     "posted": "2026-06-18T22:59:54.791Z"
   },
   {
-    "slug": "ashby-9d60d913-8a99-4d52-9960-dbeb7e65cfa3",
+    "dedupeKey": "ashby:9d60d913-8a99-4d52-9960-dbeb7e65cfa3",
     "company": "Plaid",
     "companyDomain": "plaid.com",
     "role": "Senior Data Scientist - Embedded Insights",
@@ -4523,7 +4242,7 @@
     "posted": "2026-06-18T21:22:51.345Z"
   },
   {
-    "slug": "ashby-fa95bc82-6d04-4ecf-a2ba-12b1a11d6500",
+    "dedupeKey": "ashby:fa95bc82-6d04-4ecf-a2ba-12b1a11d6500",
     "company": "hims & hers",
     "companyDomain": "forhims.com",
     "role": "Staff Analyst, Product",
@@ -4552,7 +4271,7 @@
     "posted": "2026-06-18T21:08:52.406Z"
   },
   {
-    "slug": "greenhouse-7961502",
+    "dedupeKey": "greenhouse:7961502",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Director, Data Science - Risk Adjustment",
@@ -4576,7 +4295,7 @@
     "posted": "2026-06-18T19:44:11.000Z"
   },
   {
-    "slug": "lever-fd97675c-3483-42c6-826f-12fbb96ccafc",
+    "dedupeKey": "lever:fd97675c-3483-42c6-826f-12fbb96ccafc",
     "company": "Zoox",
     "companyDomain": "zoox.com",
     "role": "Data Scientist - Mapping",
@@ -4601,7 +4320,7 @@
     "posted": "2026-06-18T17:23:54.464Z"
   },
   {
-    "slug": "teamtailor-7938565",
+    "dedupeKey": "teamtailor:7938565",
     "company": "EPSOR",
     "companyDomain": "epsor.fr",
     "role": "Data Analyst - Stage - F / H",
@@ -4632,73 +4351,7 @@
     "posted": "2026-06-18T13:42:16.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132846777",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Data Science Lead - AML Risk",
-    "applyUrl": "",
-    "location": "Tallinn, , Estonia",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "python",
-      "machine learning",
-      "unsupervised learning",
-      "supervised learning",
-      "semi-supervised learning",
-      "generative ai",
-      "llm",
-      "statistical analysis",
-      "experiment design",
-      "data science",
-      "risk modeling",
-      "financial crime",
-      "aml",
-      "object-oriented programming",
-      "data pipelines",
-      "model evaluation",
-      "precision-recall",
-      "production deployment",
-      "python services"
-    ],
-    "posted": "2026-06-18T12:08:25.976Z"
-  },
-  {
-    "slug": "smartrecruiters-744000132810465",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Data Visualisation - Services Financiers - Ile-de-France ",
-    "applyUrl": "",
-    "location": "Paris, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "powerbi",
-      "dataviz",
-      "data_modeling",
-      "azure",
-      "synapse",
-      "ssas",
-      "sql_server",
-      "advanced_sql",
-      "git",
-      "jira",
-      "gcp",
-      "bigquery",
-      "etl",
-      "olap_cubes",
-      "dashboards",
-      "reporting",
-      "data_quality",
-      "decision_support",
-      "agile",
-      "scrum",
-      "kanban"
-    ],
-    "posted": "2026-06-18T08:48:07.487Z"
-  },
-  {
-    "slug": "greenhouse-8503999002",
+    "dedupeKey": "greenhouse:8503999002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Data Science Manager, Machine Learning - Lyft Ads",
@@ -4727,7 +4380,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "greenhouse-8483708002",
+    "dedupeKey": "greenhouse:8483708002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Senior Data Scientist - Optimization, Central Market Management & AI",
@@ -4754,7 +4407,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "greenhouse-8483867002",
+    "dedupeKey": "greenhouse:8483867002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Senior Data Scientist - Optimization, Central Market Management & AI",
@@ -4784,7 +4437,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "greenhouse-8445467002",
+    "dedupeKey": "greenhouse:8445467002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Data Science Manager, Rider Experience ",
@@ -4813,7 +4466,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "greenhouse-6013303004",
+    "dedupeKey": "greenhouse:6013303004",
     "company": "Figma",
     "companyDomain": "figma.com",
     "role": "Data Scientist, Marketing",
@@ -4837,7 +4490,7 @@
     "posted": "2026-06-18T03:52:06.000Z"
   },
   {
-    "slug": "ashby-0c836406-9bce-4047-b52e-06ea2ebb6580",
+    "dedupeKey": "ashby:0c836406-9bce-4047-b52e-06ea2ebb6580",
     "company": "Brigit",
     "companyDomain": "hellobrigit.com",
     "role": "Lead Data Analyst, Payments Platform",
@@ -4857,7 +4510,7 @@
     "posted": "2026-06-18T02:34:13.898Z"
   },
   {
-    "slug": "workday-jr115218",
+    "dedupeKey": "workday:JR115218",
     "company": "ServiceTitan",
     "companyDomain": "servicetitan.com",
     "role": "Director, Data Science",
@@ -4893,7 +4546,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd97965",
+    "dedupeKey": "workday:26WD97965",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior Principal Data Scientist, AEC",
@@ -4931,7 +4584,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "ashby-c7aa551f-2219-4caa-92b4-372878a17a17",
+    "dedupeKey": "ashby:c7aa551f-2219-4caa-92b4-372878a17a17",
     "company": "SpotOn",
     "companyDomain": "spoton.com",
     "role": "Senior Product Analyst  (dbt)",
@@ -4951,7 +4604,7 @@
     "posted": "2026-06-17T21:03:06.606Z"
   },
   {
-    "slug": "greenhouse-7458013",
+    "dedupeKey": "greenhouse:7458013",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Data Scientist",
@@ -4977,7 +4630,7 @@
     "posted": "2026-06-17T20:33:07.000Z"
   },
   {
-    "slug": "greenhouse-7776541003",
+    "dedupeKey": "greenhouse:7776541003",
     "company": "Pathstream",
     "companyDomain": "pathstream.com",
     "role": "Sr. Analytics Engineer ",
@@ -4997,7 +4650,7 @@
     "posted": "2026-06-17T18:51:27.000Z"
   },
   {
-    "slug": "greenhouse-5167241007",
+    "dedupeKey": "greenhouse:5167241007",
     "company": "Chaos",
     "companyDomain": "chaosinc.com",
     "role": "Data Scientist: Mission Engineering",
@@ -5039,7 +4692,7 @@
     "posted": "2026-06-17T17:38:38.000Z"
   },
   {
-    "slug": "lever-520c2bd4-47d0-414b-b3bf-cf30c59d7712",
+    "dedupeKey": "lever:520c2bd4-47d0-414b-b3bf-cf30c59d7712",
     "company": "Smarsh",
     "companyDomain": "smarsh.com",
     "role": "Lead Data Scientist",
@@ -5085,7 +4738,7 @@
     "posted": "2026-06-17T15:34:22.207Z"
   },
   {
-    "slug": "ashby-9845c80d-95ba-4769-94a7-62408d73d603",
+    "dedupeKey": "ashby:9845c80d-95ba-4769-94a7-62408d73d603",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Data Science",
@@ -5107,7 +4760,7 @@
     "posted": "2026-06-17T15:01:13.849Z"
   },
   {
-    "slug": "greenhouse-7972646",
+    "dedupeKey": "greenhouse:7972646",
     "company": "Twilio",
     "companyDomain": "twilio.com",
     "role": "Staff Business Intelligence Engineer",
@@ -5128,7 +4781,7 @@
     "posted": "2026-06-17T13:42:14.000Z"
   },
   {
-    "slug": "ashby-99a8c19c-ef01-42eb-9c59-92e4903ca227",
+    "dedupeKey": "ashby:99a8c19c-ef01-42eb-9c59-92e4903ca227",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Associate Director, FCC Models & Product Risk",
@@ -5151,7 +4804,7 @@
     "posted": "2026-06-17T13:18:24.572Z"
   },
   {
-    "slug": "greenhouse-8012355",
+    "dedupeKey": "greenhouse:8012355",
     "company": "Truecaller",
     "companyDomain": "truecaller.com",
     "role": "Staff Data Analyst ",
@@ -5170,7 +4823,7 @@
     "posted": "2026-06-17T06:40:34.000Z"
   },
   {
-    "slug": "greenhouse-7995843",
+    "dedupeKey": "greenhouse:7995843",
     "company": "Truecaller",
     "companyDomain": "truecaller.com",
     "role": "Staff Data Analyst",
@@ -5191,7 +4844,7 @@
     "posted": "2026-06-17T06:24:56.000Z"
   },
   {
-    "slug": "breezy-e07d1d42e071",
+    "dedupeKey": "breezy:e07d1d42e071",
     "company": "Nucleus Teq",
     "companyDomain": "nucleusteq.com",
     "role": "Senior Data Scientist",
@@ -5221,7 +4874,7 @@
     "posted": "2026-06-17T05:53:13.482Z"
   },
   {
-    "slug": "greenhouse-7455592",
+    "dedupeKey": "greenhouse:7455592",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Data Scientist",
@@ -5249,7 +4902,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7959074",
+    "dedupeKey": "greenhouse:7959074",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Business Intelligence Analyst",
@@ -5270,7 +4923,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7239320",
+    "dedupeKey": "greenhouse:7239320",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Data Science Manager, Driving Quality",
@@ -5298,7 +4951,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7456042",
+    "dedupeKey": "greenhouse:7456042",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Data Scientist",
@@ -5324,7 +4977,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7964897",
+    "dedupeKey": "greenhouse:7964897",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Manager, Product Data Science - Fleet Optimization and Orchestration",
@@ -5347,7 +5000,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7872727",
+    "dedupeKey": "greenhouse:7872727",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Staff Data Scientist, Perception",
@@ -5374,7 +5027,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "jazzhr-sl6qax3cj7",
+    "dedupeKey": "jazzhr:SL6QAx3CJ7",
     "company": "H2O.ai",
     "companyDomain": "h2o.ai",
     "role": "Senior Data Scientist",
@@ -5411,7 +5064,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-1204311",
+    "dedupeKey": "workday:1204311",
     "company": "HP Enterprise",
     "companyDomain": "hpe.com",
     "role": "Supply Chain Data Scientist",
@@ -5448,7 +5101,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7822736",
+    "dedupeKey": "greenhouse:7822736",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Senior Data Scientist - Machine Intelligence (Creator Services)",
@@ -5477,7 +5130,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-7950872",
+    "dedupeKey": "greenhouse:7950872",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Senior Machine Learning Scientist",
@@ -5503,7 +5156,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-7701054",
+    "dedupeKey": "greenhouse:7701054",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Senior / Principal Data Scientist - Discovery",
@@ -5532,7 +5185,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-8457080002",
+    "dedupeKey": "greenhouse:8457080002",
     "company": "Octave",
     "companyDomain": "findoctave.com",
     "role": "Sr. Data Analyst, Providers",
@@ -5553,7 +5206,7 @@
     "posted": "2026-06-16T19:41:03.000Z"
   },
   {
-    "slug": "greenhouse-7793749",
+    "dedupeKey": "greenhouse:7793749",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Associate, Operations Data Analytics",
@@ -5574,7 +5227,7 @@
     "posted": "2026-06-16T17:09:41.000Z"
   },
   {
-    "slug": "greenhouse-7592301",
+    "dedupeKey": "greenhouse:7592301",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Data Scientist II",
@@ -5592,7 +5245,7 @@
     "posted": "2026-06-16T17:09:41.000Z"
   },
   {
-    "slug": "greenhouse-7594414",
+    "dedupeKey": "greenhouse:7594414",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Data Scientist II",
@@ -5610,7 +5263,7 @@
     "posted": "2026-06-16T17:09:41.000Z"
   },
   {
-    "slug": "greenhouse-7594416",
+    "dedupeKey": "greenhouse:7594416",
     "company": "Oscar Health",
     "companyDomain": "hioscar.com",
     "role": "Data Scientist II",
@@ -5628,7 +5281,7 @@
     "posted": "2026-06-16T17:09:41.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132454654",
+    "dedupeKey": "smartrecruiters:744000132454654",
     "company": "Assystem",
     "companyDomain": "assystem.com",
     "role": "Data Analyst - Expert  PowerPlatform H/F",
@@ -5653,7 +5306,7 @@
     "posted": "2026-06-16T15:37:41.758Z"
   },
   {
-    "slug": "smartrecruiters-744000132454240",
+    "dedupeKey": "smartrecruiters:744000132454240",
     "company": "Assystem",
     "companyDomain": "assystem.com",
     "role": "Consultant Nucléaire Data H/F",
@@ -5678,7 +5331,7 @@
     "posted": "2026-06-16T15:35:50.430Z"
   },
   {
-    "slug": "ashby-f6c07c72-0ba7-4446-bb09-85bb70792d72",
+    "dedupeKey": "ashby:f6c07c72-0ba7-4446-bb09-85bb70792d72",
     "company": "ILLUIN Technology",
     "companyDomain": "illuin.tech",
     "role": "Lead Data Scientist (F/H)",
@@ -5702,7 +5355,7 @@
     "posted": "2026-06-16T15:12:16.113Z"
   },
   {
-    "slug": "greenhouse-4899761101",
+    "dedupeKey": "greenhouse:4899761101",
     "company": "Valtech",
     "companyDomain": "valtech.fr",
     "role": "Senior Data Scientist",
@@ -5730,7 +5383,7 @@
     "posted": "2026-06-16T14:50:56.000Z"
   },
   {
-    "slug": "greenhouse-4677508006",
+    "dedupeKey": "greenhouse:4677508006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Lead Actuarial Analyst, MA Risk Adjustment",
@@ -5751,7 +5404,7 @@
     "posted": "2026-06-16T14:07:57.000Z"
   },
   {
-    "slug": "greenhouse-4689054006",
+    "dedupeKey": "greenhouse:4689054006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Lead Actuarial Analyst, MA Risk Adjustment",
@@ -5772,7 +5425,7 @@
     "posted": "2026-06-16T14:07:57.000Z"
   },
   {
-    "slug": "greenhouse-4689053006",
+    "dedupeKey": "greenhouse:4689053006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Lead Actuarial Analyst, MA Risk Adjustment",
@@ -5793,7 +5446,7 @@
     "posted": "2026-06-16T14:07:57.000Z"
   },
   {
-    "slug": "greenhouse-4677506006",
+    "dedupeKey": "greenhouse:4677506006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Lead Actuarial Analyst, MA Risk Adjustment",
@@ -5814,7 +5467,7 @@
     "posted": "2026-06-16T14:07:57.000Z"
   },
   {
-    "slug": "greenhouse-4677507006",
+    "dedupeKey": "greenhouse:4677507006",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
     "role": "Lead Actuarial Analyst, MA Risk Adjustment",
@@ -5835,7 +5488,7 @@
     "posted": "2026-06-16T14:07:57.000Z"
   },
   {
-    "slug": "greenhouse-8593885002",
+    "dedupeKey": "greenhouse:8593885002",
     "company": "Verve",
     "companyDomain": "verve.com",
     "role": "Senior Insight analyst",
@@ -5861,7 +5514,7 @@
     "posted": "2026-06-16T13:41:51.000Z"
   },
   {
-    "slug": "ashby-278fbf95-e7eb-4702-850b-ac6f175669ec",
+    "dedupeKey": "ashby:278fbf95-e7eb-4702-850b-ac6f175669ec",
     "company": "Prose",
     "companyDomain": "prose.com",
     "role": "Data Analyst - 6 Month Internship",
@@ -5881,7 +5534,7 @@
     "posted": "2026-06-16T13:30:32.619Z"
   },
   {
-    "slug": "greenhouse-8009372",
+    "dedupeKey": "greenhouse:8009372",
     "company": "Airbnb",
     "companyDomain": "airbnb.com",
     "role": "Lead - Advanced Analytics, Gurgaon",
@@ -5920,7 +5573,7 @@
     "posted": "2026-06-16T09:38:50.000Z"
   },
   {
-    "slug": "greenhouse-4287026009",
+    "dedupeKey": "greenhouse:4287026009",
     "company": "Ōura",
     "companyDomain": "ouraring.com",
     "role": "Junior Data Scientist",
@@ -5938,7 +5591,7 @@
     "posted": "2026-06-16T08:46:52.000Z"
   },
   {
-    "slug": "ashby-0f7d4194-8178-4c27-a72e-d0c6b8a99852",
+    "dedupeKey": "ashby:0f7d4194-8178-4c27-a72e-d0c6b8a99852",
     "company": "Range",
     "companyDomain": "range.com",
     "role": "Senior Data Analyst",
@@ -5957,7 +5610,7 @@
     "posted": "2026-06-16T01:14:04.041Z"
   },
   {
-    "slug": "greenhouse-5165304007",
+    "dedupeKey": "greenhouse:5165304007",
     "company": "Banyan Software",
     "companyDomain": "banyansoftware.com",
     "role": "Senior AI Business Analyst, M&A",
@@ -5981,7 +5634,7 @@
     "posted": "2026-06-15T20:42:04.000Z"
   },
   {
-    "slug": "greenhouse-7911723",
+    "dedupeKey": "greenhouse:7911723",
     "company": "Squarespace",
     "companyDomain": "squarespace.com",
     "role": "Lead Analyst, Product Analytics",
@@ -6001,7 +5654,7 @@
     "posted": "2026-06-15T19:18:35.000Z"
   },
   {
-    "slug": "ashby-5e908abb-07c1-4e81-b45e-671c20405229",
+    "dedupeKey": "ashby:5e908abb-07c1-4e81-b45e-671c20405229",
     "company": "Help Scout",
     "companyDomain": "helpscout.com",
     "role": "Sr. Product Analyst",
@@ -6022,7 +5675,7 @@
     "posted": "2026-06-15T18:39:02.547Z"
   },
   {
-    "slug": "greenhouse-8003715",
+    "dedupeKey": "greenhouse:8003715",
     "company": "Qualtrics",
     "companyDomain": "qualtrics.com",
     "role": "Staff Data Scientist: Semantic Substrate Incubation ",
@@ -6054,7 +5707,7 @@
     "posted": "2026-06-15T18:38:06.000Z"
   },
   {
-    "slug": "greenhouse-5894865004",
+    "dedupeKey": "greenhouse:5894865004",
     "company": "Apollo.io",
     "companyDomain": "apollo.io",
     "role": "Staff Data Scientist - Product",
@@ -6077,7 +5730,7 @@
     "posted": "2026-06-15T18:10:23.000Z"
   },
   {
-    "slug": "ashby-140c5384-c4fd-4d63-b810-b6afe9567c99",
+    "dedupeKey": "ashby:140c5384-c4fd-4d63-b810-b6afe9567c99",
     "company": "Semgrep",
     "companyDomain": "semgrep.dev",
     "role": "Senior Data Scientist",
@@ -6104,7 +5757,7 @@
     "posted": "2026-06-15T16:55:04.935Z"
   },
   {
-    "slug": "ashby-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+    "dedupeKey": "ashby:cadb7c24-2aea-4b98-a793-65ae9388b5d6",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "People Research Data Scientist, AI Fairness & Bias",
@@ -6128,7 +5781,7 @@
     "posted": "2026-06-15T16:11:39.213Z"
   },
   {
-    "slug": "ashby-76cd3f11-bb4d-41dc-beae-9327beab91e0",
+    "dedupeKey": "ashby:76cd3f11-bb4d-41dc-beae-9327beab91e0",
     "company": "Polymarket",
     "companyDomain": "polymarket.com",
     "role": "Staff Data Analyst",
@@ -6143,7 +5796,7 @@
     "posted": "2026-06-15T14:46:45.834Z"
   },
   {
-    "slug": "greenhouse-5252777008",
+    "dedupeKey": "greenhouse:5252777008",
     "company": "Bluefish AI",
     "companyDomain": "bluefishai.com",
     "role": "Senior/Staff Data Scientist, Analytics",
@@ -6168,7 +5821,7 @@
     "posted": "2026-06-15T13:09:36.000Z"
   },
   {
-    "slug": "greenhouse-8007345",
+    "dedupeKey": "greenhouse:8007345",
     "company": "Smartsheet",
     "companyDomain": "smartsheet.com",
     "role": "Sr Principal Data Scientist",
@@ -6207,33 +5860,7 @@
     "posted": "2026-06-15T11:01:47.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132149149",
-    "company": "ixigo",
-    "companyDomain": "ixigo.com",
-    "role": "Data Analyst",
-    "applyUrl": "",
-    "location": "Gurugram/ Bengaluru, , India",
-    "remote": "unknown",
-    "level": "junior",
-    "skills": [
-      "sql",
-      "python",
-      "r",
-      "tableau",
-      "power_bi",
-      "etl",
-      "data_analysis",
-      "product_analytics",
-      "a_b_testing",
-      "data_visualization",
-      "customer_behavior_analysis",
-      "statistical_modeling",
-      "machine_learning_concepts"
-    ],
-    "posted": "2026-06-15T09:02:23.183Z"
-  },
-  {
-    "slug": "greenhouse-7772921003",
+    "dedupeKey": "greenhouse:7772921003",
     "company": "Flo",
     "companyDomain": "flo.health",
     "role": "Product Analyst ",
@@ -6264,7 +5891,7 @@
     "posted": "2026-06-15T05:59:50.000Z"
   },
   {
-    "slug": "workday-jr102505",
+    "dedupeKey": "workday:JR102505",
     "company": "Stord",
     "companyDomain": "stord.com",
     "role": "Lead Data Scientist",
@@ -6292,7 +5919,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-r28807",
+    "dedupeKey": "workday:R28807",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Lead Data Scientist (Remote)",
@@ -6324,7 +5951,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346070",
+    "dedupeKey": "workday:JR346070",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Lead - Workforce Intelligence",
@@ -6361,7 +5988,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "ashby-659c0ccf-7d11-45d2-aefd-7ba289b52b93",
+    "dedupeKey": "ashby:659c0ccf-7d11-45d2-aefd-7ba289b52b93",
     "company": "Nomic Bio",
     "companyDomain": "nomic.bio",
     "role": "Data Analyst",
@@ -6384,7 +6011,7 @@
     "posted": "2026-06-13T10:47:08.221Z"
   },
   {
-    "slug": "greenhouse-6013304004",
+    "dedupeKey": "greenhouse:6013304004",
     "company": "Figma",
     "companyDomain": "figma.com",
     "role": "Data Scientist, Finance",
@@ -6403,7 +6030,7 @@
     "posted": "2026-06-12T19:20:07.000Z"
   },
   {
-    "slug": "greenhouse-4705245005",
+    "dedupeKey": "greenhouse:4705245005",
     "company": "Midi Health",
     "companyDomain": "joinmidi.com",
     "role": "Staff Data Scientist",
@@ -6424,7 +6051,7 @@
     "posted": "2026-06-12T15:23:48.000Z"
   },
   {
-    "slug": "ashby-9863e22f-2113-469d-a933-eb79c2b22149",
+    "dedupeKey": "ashby:9863e22f-2113-469d-a933-eb79c2b22149",
     "company": "Xero",
     "companyDomain": "xero.com",
     "role": "Analytics Lead-UK/Emerging",
@@ -6445,7 +6072,7 @@
     "posted": "2026-06-12T14:09:49.157Z"
   },
   {
-    "slug": "greenhouse-4280475009",
+    "dedupeKey": "greenhouse:4280475009",
     "company": "Authenticx",
     "companyDomain": "authenticx.com",
     "role": "Manager of Conversation Analysis ",
@@ -6465,7 +6092,7 @@
     "posted": "2026-06-12T13:02:42.000Z"
   },
   {
-    "slug": "rippling-b088aece-cceb-485a-9640-40b58abb9414",
+    "dedupeKey": "rippling:b088aece-cceb-485a-9640-40b58abb9414",
     "company": "Tive",
     "companyDomain": "tive.com",
     "role": "Senior Data Scientist",
@@ -6496,7 +6123,7 @@
     "posted": "2026-06-12T12:59:21.576Z"
   },
   {
-    "slug": "workday-req-5025",
+    "dedupeKey": "workday:REQ-5025",
     "company": "Clio",
     "companyDomain": "clio.com",
     "role": "Data Scientist",
@@ -6527,7 +6154,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr342035",
+    "dedupeKey": "workday:JR342035",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Director, Decision Science",
@@ -6554,7 +6181,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "ashby-50b62bd2-d19a-4e32-b690-f745df5c3946",
+    "dedupeKey": "ashby:50b62bd2-d19a-4e32-b690-f745df5c3946",
     "company": "Found",
     "companyDomain": "found.com",
     "role": "Senior Data Scientist, Risk ",
@@ -6574,7 +6201,7 @@
     "posted": "2026-06-11T20:38:04.539Z"
   },
   {
-    "slug": "greenhouse-8001075",
+    "dedupeKey": "greenhouse:8001075",
     "company": "Earnin",
     "companyDomain": "earnin.com",
     "role": "Staff Analytics, Product & Marketing",
@@ -6604,7 +6231,7 @@
     "posted": "2026-06-11T19:03:19.000Z"
   },
   {
-    "slug": "greenhouse-7917475",
+    "dedupeKey": "greenhouse:7917475",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Senior Marketing Analytics Manager - BI & Data Architecture",
@@ -6628,7 +6255,7 @@
     "posted": "2026-06-11T17:55:52.000Z"
   },
   {
-    "slug": "greenhouse-7786302",
+    "dedupeKey": "greenhouse:7786302",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Measurement Lead",
@@ -6659,7 +6286,7 @@
     "posted": "2026-06-11T16:38:21.000Z"
   },
   {
-    "slug": "ashby-d0ebe16c-0bb7-45b5-a682-af839a050f42",
+    "dedupeKey": "ashby:d0ebe16c-0bb7-45b5-a682-af839a050f42",
     "company": "Tourlane",
     "companyDomain": "tourlane.com",
     "role": "Data and Analytics Working Student",
@@ -6679,7 +6306,7 @@
     "posted": "2026-06-11T16:36:05.976Z"
   },
   {
-    "slug": "ashby-93f558c1-c944-4ddc-b102-addc9446de3d",
+    "dedupeKey": "ashby:93f558c1-c944-4ddc-b102-addc9446de3d",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Applied Data Science & Insights Leader - GTM Intelligence Solutions and Technical Success",
@@ -6699,7 +6326,7 @@
     "posted": "2026-06-11T15:28:51.071Z"
   },
   {
-    "slug": "ashby-097f849c-765d-4cac-acf7-898cfa66c20d",
+    "dedupeKey": "ashby:097f849c-765d-4cac-acf7-898cfa66c20d",
     "company": "Float",
     "companyDomain": "floatcard.com",
     "role": "Data Analyst, Product (Banking and Payments)",
@@ -6730,7 +6357,7 @@
     "posted": "2026-06-11T15:14:22.439Z"
   },
   {
-    "slug": "ashby-76755e3f-201a-459b-9d9a-9517e2dc06bc",
+    "dedupeKey": "ashby:76755e3f-201a-459b-9d9a-9517e2dc06bc",
     "company": "Float",
     "companyDomain": "floatcard.com",
     "role": "Data Analyst, Business Intelligence",
@@ -6751,7 +6378,7 @@
     "posted": "2026-06-11T15:07:26.351Z"
   },
   {
-    "slug": "greenhouse-7960800",
+    "dedupeKey": "greenhouse:7960800",
     "company": "Justworks",
     "companyDomain": "justworks.com",
     "role": "Senior Data Scientist",
@@ -6774,29 +6401,7 @@
     "posted": "2026-06-11T14:01:52.000Z"
   },
   {
-    "slug": "smartrecruiters-744000131621117",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Chef de projet Data - Services Financiers - ILE DE FRANCE",
-    "applyUrl": "",
-    "location": "Courbevoie, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "data governance",
-      "data strategy",
-      "business intelligence",
-      "analytics",
-      "sql",
-      "datalake",
-      "data modeling",
-      "agile",
-      "safe"
-    ],
-    "posted": "2026-06-11T09:08:38.229Z"
-  },
-  {
-    "slug": "greenhouse-7759275003",
+    "dedupeKey": "greenhouse:7759275003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst, Marketing",
@@ -6815,7 +6420,7 @@
     "posted": "2026-06-11T06:05:44.000Z"
   },
   {
-    "slug": "lever-967bbddc-8921-4e58-b122-2fc4e322e44f",
+    "dedupeKey": "lever:967bbddc-8921-4e58-b122-2fc4e322e44f",
     "company": "Ekimetrics",
     "companyDomain": "ekimetrics.com",
     "role": "Business Scientist - Hong Kong - July 2026",
@@ -6840,7 +6445,7 @@
     "posted": "2026-06-11T05:42:12.082Z"
   },
   {
-    "slug": "greenhouse-7760571003",
+    "dedupeKey": "greenhouse:7760571003",
     "company": "Next Insurance",
     "companyDomain": "next-insurance.com",
     "role": "Lead Actuarial Data Scientist",
@@ -6862,7 +6467,7 @@
     "posted": "2026-06-11T00:01:46.000Z"
   },
   {
-    "slug": "workday-jr344060",
+    "dedupeKey": "workday:JR344060",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Data Scientist (SMTS)",
@@ -6888,7 +6493,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "workday-1206052",
+    "dedupeKey": "workday:1206052",
     "company": "HP Enterprise",
     "companyDomain": "hpe.com",
     "role": "Data Science and AI Analyst",
@@ -6912,7 +6517,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7991018",
+    "dedupeKey": "greenhouse:7991018",
     "company": "Customer.io",
     "companyDomain": "customer.io",
     "role": "Senior Manager, Data Science & Analytics",
@@ -6938,7 +6543,7 @@
     "posted": "2026-06-10T23:48:42.000Z"
   },
   {
-    "slug": "greenhouse-7998077",
+    "dedupeKey": "greenhouse:7998077",
     "company": "YipitData",
     "companyDomain": "yipitdata.com",
     "role": "Data Product Analyst, Corporate",
@@ -6956,7 +6561,7 @@
     "posted": "2026-06-10T22:00:43.000Z"
   },
   {
-    "slug": "greenhouse-7768831003",
+    "dedupeKey": "greenhouse:7768831003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst",
@@ -6975,7 +6580,7 @@
     "posted": "2026-06-10T20:57:38.000Z"
   },
   {
-    "slug": "greenhouse-7768827003",
+    "dedupeKey": "greenhouse:7768827003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst",
@@ -6995,7 +6600,7 @@
     "posted": "2026-06-10T20:57:37.000Z"
   },
   {
-    "slug": "greenhouse-7768818003",
+    "dedupeKey": "greenhouse:7768818003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst",
@@ -7015,7 +6620,7 @@
     "posted": "2026-06-10T20:57:36.000Z"
   },
   {
-    "slug": "greenhouse-7768825003",
+    "dedupeKey": "greenhouse:7768825003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst",
@@ -7034,7 +6639,7 @@
     "posted": "2026-06-10T20:57:36.000Z"
   },
   {
-    "slug": "greenhouse-7766067003",
+    "dedupeKey": "greenhouse:7766067003",
     "company": "Metropolis Technologies",
     "companyDomain": "metropolis.io",
     "role": "Senior Data Analyst",
@@ -7054,7 +6659,7 @@
     "posted": "2026-06-10T20:57:35.000Z"
   },
   {
-    "slug": "greenhouse-7764035003",
+    "dedupeKey": "greenhouse:7764035003",
     "company": "Affirm",
     "companyDomain": "affirm.com",
     "role": "Analyst II, Full Stack (Credit Analytics)",
@@ -7074,7 +6679,7 @@
     "posted": "2026-06-10T20:07:28.000Z"
   },
   {
-    "slug": "greenhouse-5161248007",
+    "dedupeKey": "greenhouse:5161248007",
     "company": "ezCater",
     "companyDomain": "ezcater.com",
     "role": "Senior Analyst, Product (Remote)",
@@ -7095,7 +6700,7 @@
     "posted": "2026-06-10T18:25:24.000Z"
   },
   {
-    "slug": "ashby-55caf5d6-91a9-46af-be12-237dd47d11df",
+    "dedupeKey": "ashby:55caf5d6-91a9-46af-be12-237dd47d11df",
     "company": "Checkout.com",
     "companyDomain": "checkout.com",
     "role": "Senior Product Data Scientist ",
@@ -7121,7 +6726,7 @@
     "posted": "2026-06-10T17:34:03.360Z"
   },
   {
-    "slug": "greenhouse-5089235007",
+    "dedupeKey": "greenhouse:5089235007",
     "company": "Split",
     "companyDomain": "split.io",
     "role": "Senior Data Analyst",
@@ -7139,7 +6744,7 @@
     "posted": "2026-06-10T16:07:57.000Z"
   },
   {
-    "slug": "ashby-e283279a-1b28-43ab-9ca0-bd84b9ece14a",
+    "dedupeKey": "ashby:e283279a-1b28-43ab-9ca0-bd84b9ece14a",
     "company": "Scribd",
     "companyDomain": "scribd.com",
     "role": "Senior Data Analyst, Customer Operations",
@@ -7166,7 +6771,7 @@
     "posted": "2026-06-10T16:02:44.088Z"
   },
   {
-    "slug": "ashby-03a070ac-262f-4d87-8028-e78d98d3cb8e",
+    "dedupeKey": "ashby:03a070ac-262f-4d87-8028-e78d98d3cb8e",
     "company": "Magentic",
     "companyDomain": "magentic.com",
     "role": "Data Scientist",
@@ -7184,7 +6789,7 @@
     "posted": "2026-06-10T15:09:59.719Z"
   },
   {
-    "slug": "greenhouse-4688305006",
+    "dedupeKey": "greenhouse:4688305006",
     "company": "Northbeam",
     "companyDomain": "northbeam.io",
     "role": "Senior Data Scientist ",
@@ -7206,7 +6811,7 @@
     "posted": "2026-06-10T14:05:55.000Z"
   },
   {
-    "slug": "ashby-76c7b295-da94-4e83-813b-25b1766f92a0",
+    "dedupeKey": "ashby:76c7b295-da94-4e83-813b-25b1766f92a0",
     "company": "Faculty",
     "companyDomain": "faculty.ai",
     "role": "Lead Data Scientist ",
@@ -7228,7 +6833,7 @@
     "posted": "2026-06-10T12:17:03.540Z"
   },
   {
-    "slug": "greenhouse-4892580101",
+    "dedupeKey": "greenhouse:4892580101",
     "company": "Fever",
     "companyDomain": "feverup.com",
     "role": "Business Intelligence Analyst",
@@ -7250,7 +6855,7 @@
     "posted": "2026-06-10T10:35:41.000Z"
   },
   {
-    "slug": "breezy-2c8e3af8847d",
+    "dedupeKey": "breezy:2c8e3af8847d",
     "company": "Gozem",
     "companyDomain": "gozem.co",
     "role": "Senior Data scientist",
@@ -7284,7 +6889,7 @@
     "posted": "2026-06-10T09:09:48.308Z"
   },
   {
-    "slug": "lever-f346e8e0-e5a8-4293-a1d0-d5fb1e1a8403",
+    "dedupeKey": "lever:f346e8e0-e5a8-4293-a1d0-d5fb1e1a8403",
     "company": "Tala",
     "companyDomain": "tala.co",
     "role": "Performance Insights & Automation Analyst",
@@ -7309,7 +6914,7 @@
     "posted": "2026-06-10T02:01:35.097Z"
   },
   {
-    "slug": "greenhouse-5239527008",
+    "dedupeKey": "greenhouse:5239527008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Senior Data Scientist, AI & Model Risk ",
@@ -7335,7 +6940,7 @@
     "posted": "2026-06-09T21:21:30.000Z"
   },
   {
-    "slug": "greenhouse-5221040008",
+    "dedupeKey": "greenhouse:5221040008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Senior Data Scientist, AI & Model Risk ",
@@ -7361,7 +6966,7 @@
     "posted": "2026-06-09T21:21:30.000Z"
   },
   {
-    "slug": "greenhouse-4183425009",
+    "dedupeKey": "greenhouse:4183425009",
     "company": "Machinify",
     "companyDomain": "machinify.com",
     "role": "DMG Data Mining Analyst II",
@@ -7380,7 +6985,7 @@
     "posted": "2026-06-09T20:54:15.000Z"
   },
   {
-    "slug": "greenhouse-5160272007",
+    "dedupeKey": "greenhouse:5160272007",
     "company": "MaintainX",
     "companyDomain": "getmaintainx.com",
     "role": "Senior Product Data Scientist",
@@ -7400,5 +7005,402 @@
       "amplitude"
     ],
     "posted": "2026-06-09T19:26:50.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:7630773003",
+    "company": "Third Wave Automation",
+    "companyDomain": "thirdwave.ai",
+    "role": "Sr. Business Intelligence and Insights Engineer",
+    "applyUrl": "https://job-boards.greenhouse.io/thirdwaveautomation/jobs/7630773003",
+    "location": "Union City, Ca ",
+    "remote": "",
+    "level": "senior",
+    "skills": [
+      "sql",
+      "python",
+      "javascript",
+      "bigquery",
+      "looker",
+      "grafana",
+      "dbt",
+      "generative ai",
+      "machine learning",
+      "data modeling",
+      "data warehousing",
+      "etl",
+      "data analysis",
+      "statistical modeling",
+      "predictive modeling",
+      "data visualization",
+      "product analytics"
+    ],
+    "posted": "2026-06-09T15:44:52.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:4890555101",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/valtech/jobs/4890555101",
+    "location": "Ukraine - Remote",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "uplift modeling",
+      "experimentation",
+      "forecasting",
+      "optimization",
+      "machine learning",
+      "generative AI",
+      "LLMs",
+      "RAG pipelines",
+      "agent-based systems",
+      "decision intelligence",
+      "time-series analysis",
+      "statistical modeling",
+      "production ML",
+      "MLOps"
+    ],
+    "posted": "2026-06-09T13:27:45.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:4890550101",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/valtech/jobs/4890550101",
+    "location": "Sofia",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "uplift modeling",
+      "experimentation",
+      "predictive modeling",
+      "prescriptive modeling",
+      "forecasting",
+      "optimization",
+      "recommendation systems",
+      "generative AI",
+      "LLMs",
+      "RAG",
+      "agent-based systems",
+      "machine learning",
+      "statistics",
+      "decision intelligence",
+      "time-series analysis",
+      "python",
+      "sql"
+    ],
+    "posted": "2026-06-09T13:27:45.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:4890546101",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/valtech/jobs/4890546101",
+    "location": "Lisbon",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "uplift modeling",
+      "experimentation",
+      "forecasting",
+      "optimization",
+      "machine learning",
+      "generative AI",
+      "LLMs",
+      "RAG pipelines",
+      "agent-based systems",
+      "decision intelligence",
+      "time-series analysis",
+      "statistical modeling",
+      "production ML",
+      "MLOps"
+    ],
+    "posted": "2026-06-09T13:27:44.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:4890465101",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/valtech/jobs/4890465101",
+    "location": "Poland - Remote",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "uplift modeling",
+      "experimentation",
+      "forecasting",
+      "optimization",
+      "machine learning",
+      "generative AI",
+      "LLMs",
+      "RAG pipelines",
+      "agent-based systems",
+      "decision intelligence",
+      "time-series analysis",
+      "statistical modeling",
+      "production ML",
+      "MLOps"
+    ],
+    "posted": "2026-06-09T13:27:43.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:4888739101",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/valtech/jobs/4888739101",
+    "location": "North Macedonia - Remote",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "uplift modeling",
+      "experimentation",
+      "forecasting",
+      "optimization",
+      "machine learning",
+      "generative AI",
+      "LLMs",
+      "RAG pipelines",
+      "agent-based systems",
+      "decision intelligence",
+      "time-series analysis",
+      "statistical modeling",
+      "production ML",
+      "MLOps"
+    ],
+    "posted": "2026-06-09T13:27:42.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:8535442002",
+    "company": "Arcadia",
+    "companyDomain": "arcadia.com",
+    "role": "Senior Data Analyst - Revenue Ops",
+    "applyUrl": "https://job-boards.greenhouse.io/arcadiacareers/jobs/8535442002",
+    "location": "Chennai, Tamil Nadu, India",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "sql",
+      "looker",
+      "tableau",
+      "python",
+      "r",
+      "dbt"
+    ],
+    "posted": "2026-06-09T07:54:14.000Z"
+  },
+  {
+    "dedupeKey": "lever:b7b2b7f2-2931-4260-a99a-f93add105424",
+    "company": "IDT",
+    "companyDomain": "idt.net",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://jobs.lever.co/idt/b7b2b7f2-2931-4260-a99a-f93add105424/apply",
+    "location": "Minsk",
+    "remote": "remote",
+    "level": "senior",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "pandas",
+      "numpy",
+      "sql",
+      "mlops",
+      "supervised learning",
+      "unsupervised learning",
+      "boosting",
+      "neural networks",
+      "bayesian methods",
+      "clustering",
+      "generative models",
+      "anomaly detection",
+      "a/b testing",
+      "production deployment",
+      "model interpretability",
+      "feature engineering",
+      "pipeline optimization"
+    ],
+    "posted": "2026-06-09T07:35:52.939Z"
+  },
+  {
+    "dedupeKey": "rippling:1310bdc8-24c7-4e6a-af30-223e658c9402",
+    "company": "Rippling",
+    "companyDomain": "rippling.com",
+    "role": "AI/ML Model Risk Validator ",
+    "applyUrl": "https://ats.rippling.com/rippling/jobs/1310bdc8-24c7-4e6a-af30-223e658c9402",
+    "location": "Bangalore, India",
+    "remote": "onsite",
+    "level": "mid",
+    "skills": [
+      "model_risk_management",
+      "credit_risk",
+      "financial_modeling",
+      "applied_machine_learning",
+      "logistic_regression",
+      "gradient_boosting",
+      "time_series_models",
+      "python",
+      "sql",
+      "sr_11_7",
+      "data_validation",
+      "model_governance",
+      "mlops",
+      "llm",
+      "agents"
+    ],
+    "posted": "2026-06-09T06:41:01.514Z"
+  },
+  {
+    "dedupeKey": "ashby:ff42e3dd-b242-4bd3-9c09-9d280e73f4f4",
+    "company": "Rundoo",
+    "companyDomain": "getrundoo.com",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://jobs.ashbyhq.com/rundoo/ff42e3dd-b242-4bd3-9c09-9d280e73f4f4/application",
+    "location": "Remote",
+    "remote": "remote",
+    "level": "senior",
+    "skills": [
+      "python",
+      "statistics",
+      "experimentation",
+      "forecasting",
+      "causal inference"
+    ],
+    "posted": "2026-06-09T06:29:48.492Z"
+  },
+  {
+    "dedupeKey": "lever:8f7a56cc-dd1b-43ab-a639-d0d8dd731d5c",
+    "company": "Ekimetrics",
+    "companyDomain": "ekimetrics.com",
+    "role": "Stage Septembre 2026 Business Data Scientist - Marketing effectiveness(H/F/N)",
+    "applyUrl": "https://jobs.lever.co/ekimetrics/8f7a56cc-dd1b-43ab-a639-d0d8dd731d5c/apply",
+    "location": "Paris",
+    "remote": "hybrid",
+    "level": "intern",
+    "skills": [
+      "python",
+      "econometrics",
+      "statistics",
+      "bayesian statistics",
+      "data analysis",
+      "data manipulation",
+      "data cleaning",
+      "marketing strategy",
+      "media optimization",
+      "business strategy",
+      "databricks",
+      "azure"
+    ],
+    "posted": "2026-06-09T05:53:57.168Z"
+  },
+  {
+    "dedupeKey": "workday:R12614",
+    "company": "Open",
+    "companyDomain": "open.global",
+    "role": "Consultant PBI H/F",
+    "applyUrl": "https://open.wd103.myworkdayjobs.com/OPEN/job/Levallois-Perret/Consultant-Data---IA-H-F_R12614",
+    "location": "Levallois-Perret",
+    "remote": "hybrid",
+    "level": "unknown",
+    "skills": [
+      "sql",
+      "power bi",
+      "data management",
+      "data modeling",
+      "data architecture",
+      "statistical analysis",
+      "big data",
+      "dataiku"
+    ],
+    "posted": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "ashby:77acd877-51ad-4b2f-ba41-da33d8bcc0b4",
+    "company": "Sift Science",
+    "companyDomain": "sift.com",
+    "role": "Staff Data Scientist",
+    "applyUrl": "https://jobs.ashbyhq.com/sift/77acd877-51ad-4b2f-ba41-da33d8bcc0b4/application",
+    "location": "Remote - USA",
+    "remote": "remote",
+    "level": "staff",
+    "skills": [
+      "python",
+      "xgboost",
+      "lightgbm",
+      "tensorflow",
+      "pytorch",
+      "keras",
+      "graph neural networks",
+      "machine learning",
+      "statistical modeling",
+      "fraud detection",
+      "information security",
+      "threat modeling",
+      "automl",
+      "llm"
+    ],
+    "posted": "2026-06-08T20:01:51.142Z"
+  },
+  {
+    "dedupeKey": "greenhouse:7766266003",
+    "company": "Moloco",
+    "companyDomain": "moloco.com",
+    "role": "Staff Data Scientist, Growth Data Science ",
+    "applyUrl": "https://job-boards.greenhouse.io/moloco/jobs/7766266003",
+    "location": "Menlo Park, California, United States; New York, New York, United States",
+    "remote": "remote",
+    "level": "staff",
+    "skills": [
+      "python",
+      "sql",
+      "experimental design",
+      "hypothesis testing",
+      "regression",
+      "causal inference",
+      "bigquery",
+      "ad tech",
+      "performance marketing",
+      "ua strategy",
+      "ltv optimization",
+      "product strategy",
+      "stakeholder management",
+      "cross-functional collaboration"
+    ],
+    "posted": "2026-06-08T17:59:44.000Z"
+  },
+  {
+    "dedupeKey": "ashby:edd9e287-262e-4fcb-8aa5-2067e6526efa",
+    "company": "n8n",
+    "companyDomain": "n8n.io",
+    "role": "Product Data Analyst",
+    "applyUrl": "https://jobs.ashbyhq.com/n8n/edd9e287-262e-4fcb-8aa5-2067e6526efa/application",
+    "location": "Europe",
+    "remote": "remote",
+    "level": "senior",
+    "skills": [
+      "sql",
+      "bigquery",
+      "dbt",
+      "metabase",
+      "python",
+      "pandas",
+      "statsmodels",
+      "scipy",
+      "a/b testing",
+      "product analytics",
+      "saas",
+      "plg"
+    ],
+    "posted": "2026-06-08T17:10:20.226Z"
   }
 ]
