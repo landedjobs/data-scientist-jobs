@@ -1,5 +1,129 @@
 [
   {
+    "dedupeKey": "job:e8eb62f2-1808-4702-86a0-7014d29f996a",
+    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
+    "company": "Intuitive",
+    "companyDomain": "intuitive.com",
+    "role": "Data Scientist",
+    "applyUrl": "https://go.landed.jobs/dnlwi83",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "R",
+      "Gen AI",
+      "LLM tools",
+      "Git-based workflows",
+      "CI/CD",
+      "LLMs",
+      "Posit platforms (Workbench, Connect)"
+    ],
+    "posted": "2026-10-13T19:36:33.037Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e0ed5d88-dd63-43f6-90f3-2da54ab7d0f9",
+    "companyId": "company_b764cc26c94b711e39ab200fbe1ac54f",
+    "company": "Nourish",
+    "companyDomain": "usenourish.com",
+    "role": "Staff Data Scientist",
+    "applyUrl": "https://go.landed.jobs/le95ecv",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "SQL",
+      "Python",
+      "causal inference",
+      "predictive modeling"
+    ],
+    "posted": "2026-10-13T19:15:25.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp E-Commerce 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:63f97ab0-b6bd-4c88-b86a-62c7ad216113",
+    "companyId": "company_ea81fdc5de4724f2281b59e31c18a66b",
+    "company": "Wave Mobile Money",
+    "companyDomain": "wave.com",
+    "role": "Data Scientist",
+    "applyUrl": "https://go.landed.jobs/7lh6296",
+    "location": "🌐 Remote (Spain, Kenya, Ghana +4)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "data visualization tools",
+      "machine learning",
+      "causal inference",
+      "statistical modeling"
+    ],
+    "posted": "2026-10-13T08:54:49.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$1.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0a6a1b71-d6e0-4acc-8a28-379b86e6560e",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Staff Data Scientist, Algorithm, Growth",
+    "applyUrl": "https://go.landed.jobs/nu6748c",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "machine learning models",
+      "predictive models",
+      "personalization and recommendation systems",
+      "LLM-powered applications",
+      "incentive optimization frameworks",
+      "causal inference models",
+      "SQL",
+      "Python",
+      "schema design",
+      "dimensional data modeling"
+    ],
+    "posted": "2026-10-12T06:53:47.716Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:d43a1793-714a-4b08-968c-25aa9fbee679",
     "companyId": "company_08a07ef1a38da36f3dd7ae9ba6b2e71c",
     "company": "Temporal Technologies",
@@ -576,39 +700,6 @@
     "companyBadges": [
       "TrueUp Remote 200",
       "$7.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:5ae81950-9ee5-418a-91fc-29e60f2bb559",
-    "companyId": "company_a4b33277ec4c9cb5d8826f547f030098",
-    "company": "Pomelo Care",
-    "companyDomain": "pomelocare.com",
-    "role": "Staff Data Scientist, Healthcare Economics",
-    "applyUrl": "https://go.landed.jobs/zm2mxoa",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "staff",
-    "skills": [
-      "propensity score matching",
-      "linear and logistic regressions",
-      "k-means clustering",
-      "difference-in-differences",
-      "decision trees",
-      "Looker",
-      "Tableau",
-      "Metabase",
-      "dbt"
-    ],
-    "posted": "2026-09-30T16:09:52.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp HealthTech 50",
-      "$1.7B valuation"
     ]
   },
   {
@@ -1447,67 +1538,276 @@
     ]
   },
   {
-    "dedupeKey": "job:e8fbb62e-3508-47f4-96a4-f44ec66d16df",
-    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
-    "company": "Plaid",
-    "companyDomain": "plaid.com",
-    "role": "Data Scientist - Fraud",
-    "applyUrl": "https://go.landed.jobs/mibbt4o",
-    "location": "New York City, NY +2",
+    "dedupeKey": "job:7059d15b-1bb0-45ab-b883-8a8b6b68f78b",
+    "companyId": "company_0066d424c369cc03d95c3257235e004e",
+    "company": "Chime",
+    "companyDomain": "chime.com",
+    "role": "Lead Data Scientist, Credit Risk",
+    "applyUrl": "https://go.landed.jobs/94j645y",
+    "location": "Chicago, IL · San Francisco, CA",
     "locations": [
-      "New York City, NY",
-      "Seattle, WA",
+      "Chicago, IL",
       "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "Looker"
+    ],
+    "posted": "2026-10-13T21:51:12.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$8.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e3430b5d-2c55-437b-a072-1328b26a4351",
+    "companyId": "company_3abd12ebda1ff31c2c3d6b0fa3f219a3",
+    "company": "Fetch",
+    "companyDomain": "fetch.com",
+    "role": "Staff Data Scientist, Product",
+    "applyUrl": "https://go.landed.jobs/1m7orfr",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "SQL",
+      "Snowflake",
+      "dbt",
+      "predictive modeling systems",
+      "relevance and ranking systems"
+    ],
+    "posted": "2026-10-13T18:48:45.869Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.5B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:cbde3ab3-5ce2-4f19-afe7-fdb2c6c0e762",
+    "companyId": "company_e49bea78acf14f5d1cc797297d3e2be4",
+    "company": "Everpure",
+    "companyDomain": "everpuredata.com",
+    "role": "Data Scientist Engineer, Digital Experience",
+    "applyUrl": "https://go.landed.jobs/gw19ys2",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "Scikit-Learn",
+      "TensorFlow/Keras",
+      "PyTorch",
+      "Pandas",
+      "Statsmodels"
+    ],
+    "posted": "2026-10-13T18:37:03.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$25.6B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b2a30a4b-ce3f-4c11-afea-07aad1715c8a",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Associate Data Scientist I",
+    "applyUrl": "https://go.landed.jobs/4553w9n",
+    "location": "North Chicago, IL",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "entry",
+    "skills": [
+      "python",
+      "SQL",
+      "data storage",
+      "data transfer",
+      "data integration",
+      "data visualization",
+      "analytics",
+      "Spotfire",
+      "CI/CD tools"
+    ],
+    "posted": "2026-10-12T21:57:45.037Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:aeeb3b5b-2cc4-45af-b455-0deb55907e94",
+    "companyId": "company_3858065f9699d14a4d37610612bd2517",
+    "company": "Engine",
+    "companyDomain": "engine.com",
+    "role": "Senior Data Scientist - Content",
+    "applyUrl": "https://go.landed.jobs/cjccol1",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "machine learning algorithms",
+      "statistical modeling",
+      "Python",
+      "scikit-learn",
+      "numpy",
+      "pandas",
+      "SQL",
+      "Snowflake",
+      "Streamlit"
+    ],
+    "posted": "2026-10-12T15:46:13.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.1B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:01a8e96a-9121-41a1-ba26-53808fe5513c",
+    "companyId": "company_7f10f78b0e70b7d8a5bef7944e100fa4",
+    "company": "Fractal Analytics",
+    "companyDomain": "fractal.ai",
+    "role": "Data scientist (Census Automation)",
+    "applyUrl": "https://go.landed.jobs/okiafaq",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "",
+    "skills": [
+      "LLMs",
+      "prompt engineering",
+      "model evaluation",
+      "monitoring",
+      "AWS cloud services"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:311541b0-598e-458c-9fca-0c5d7de905eb",
+    "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
+    "company": "Amgen",
+    "companyDomain": "amgen.com",
+    "role": "Sr Data Scientist",
+    "applyUrl": "https://go.landed.jobs/6d4eirn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Los Angeles, CA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "Generative AI",
+      "LLM-based applications",
+      "Databricks",
+      "AWS",
+      "cloud-native architectures",
+      "data pipelines",
+      "workflow orchestration",
+      "data quality monitoring",
+      "RAG",
+      "agentic AI"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:952717ac-699c-4ec5-aabd-244f7babfee9",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Human Performance Data Scientist",
+    "applyUrl": "https://go.landed.jobs/h1oy5i8",
+    "location": "US",
+    "locations": [
+      "US"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "data_science_analytics",
     "level": "mid",
     "skills": [
-      "SQL",
-      "Python",
-      "product analytics",
-      "experimentation",
-      "backtesting methodologies",
-      "reporting frameworks",
-      "core product metrics",
-      "ML models"
+      "statistical and longitudinal analyses",
+      "designing and evaluating performance measures using KPIs, MOPs, MOEs, and statistical methods"
     ],
-    "posted": "2026-09-12T05:51:49.839Z",
-    "companyTier": "A",
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$8B valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:dd01c066-2245-4b3a-a7fd-a5d2bdc0e919",
-    "companyId": "company_37af3fd55de19c5ed0c5e4674070701e",
-    "company": "Axon",
-    "companyDomain": "axon.com",
-    "role": "Senior Data Scientist - Product Intelligence Analytics",
-    "applyUrl": "https://go.landed.jobs/hggyrp7",
-    "location": "Washington, WA",
+    "dedupeKey": "job:c7436255-edda-4084-97e8-29e901f4928a",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Data Scientist (Houston, Texas)",
+    "applyUrl": "https://go.landed.jobs/k1crsc6",
+    "location": "Houston, TX · Texas, TX",
     "locations": [
-      "Washington, WA"
+      "Houston, TX",
+      "Texas, TX"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "data_science_analytics",
-    "level": "senior",
+    "level": "mid",
     "skills": [
-      "SQL",
-      "data modeling",
-      "statistical techniques — segmentation, experimentation, forecasting",
-      "A/B testing",
-      "feature flags",
-      "AWS-based tooling"
+      "advanced machine learning",
+      "data integration",
+      "mathematical modeling",
+      "ETL tools (eg. Informatica, Ab Initio, Talend)"
     ],
-    "posted": "2026-09-11T06:37:44.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$42.5B valuation"
+      "$74.2B valuation",
+      "Public"
     ]
   },
   {
@@ -1822,39 +2122,6 @@
     ]
   },
   {
-    "dedupeKey": "job:54769692-399c-4dd3-af91-83dcb59b93bd",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Scientist, Senior",
-    "applyUrl": "https://go.landed.jobs/ndrq4u9",
-    "location": "Alexandria, VA",
-    "locations": [
-      "Alexandria, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "data manipulation and extract, transform, and load (ETL) procedures",
-      "APIs",
-      "Grafana",
-      "Flask",
-      "JavaScript",
-      "Apache Spark",
-      "AI and ML technologies",
-      "supervised and unsupervised machine learning algorithms"
-    ],
-    "posted": "2026-10-08T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:d605d265-25e0-4d29-8632-4244f2e3ba55",
     "companyId": "company_548fff8316ff3b8a015354bf692b1657",
     "company": "3M",
@@ -2027,6 +2294,47 @@
     ]
   },
   {
+    "dedupeKey": "job:552a0e8c-9856-4c65-9985-d2425680b3c4",
+    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
+    "company": "Adobe",
+    "companyDomain": "adobe.com",
+    "role": "Senior Data Scientist, ML— Fraud Prevention",
+    "applyUrl": "https://go.landed.jobs/bxz7st7",
+    "location": "San Jose, CA +5",
+    "locations": [
+      "San Jose, CA",
+      "Austin, TX",
+      "Seattle, WA",
+      "New York City, NY",
+      "Chicago, IL",
+      "Washington, D.C., DC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "ML models",
+      "statistical and classical ML techniques",
+      "Python",
+      "SQL",
+      "model monitoring",
+      "data visualization",
+      "anomaly detection",
+      "clustering",
+      "behavioral modeling",
+      "labeling frameworks",
+      "weak supervision",
+      "active learning"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$99.5B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:60cdec08-649c-4c99-8609-db64ff0b518c",
     "companyId": "company_62a7cb53315214066d11867128751111",
     "company": "Qnity",
@@ -2060,39 +2368,6 @@
     "companyBadges": [
       "$27.5B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:7f070c41-e5d1-43e4-be3d-71a1be18f3ee",
-    "companyId": "company_55c75470e87717e08d6ee6ad5871cef1",
-    "company": "Automation Anywhere",
-    "companyDomain": "automationanywhere.com",
-    "role": "Sr. Data Scientist Engineer",
-    "applyUrl": "https://go.landed.jobs/4zreej9",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "SQL",
-      "data processing",
-      "model training",
-      "model evaluation",
-      "APIs",
-      "distributed systems",
-      "cloud platforms"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.8B valuation",
-      "Late stage"
     ]
   },
   {
@@ -2187,41 +2462,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$4.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:10b46c16-32a8-4ce8-9d4c-16a8a06acf6e",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Sr. Data Scientist",
-    "applyUrl": "https://go.landed.jobs/smudpa5",
-    "location": "Foster City, CA",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "machine learning techniques",
-      "SQL",
-      "Tableau",
-      "Power BI",
-      "R/Python",
-      "Hadoop",
-      "Hive/SQL",
-      "Apache Spark",
-      "TensorFlow",
-      "PyTorch",
-      "scikit-learn",
-      "Python, R, Spark"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
     ]
   },
   {
@@ -2838,34 +3078,6 @@
     ]
   },
   {
-    "dedupeKey": "job:f39b6f31-5898-4526-9bb1-e995bc1dab4d",
-    "companyId": "company_1fb60306dfee429de8a4090c4d118342",
-    "company": "Expedia",
-    "companyDomain": "expediagroup.com",
-    "role": "Senior Data Scientist - Customer Data Platform",
-    "applyUrl": "https://go.landed.jobs/oupem3d",
-    "location": "Seattle, WA",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "advanced analytics",
-      "experimentation",
-      "statistical methods",
-      "data storytelling"
-    ],
-    "posted": "2026-09-30T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$35.4B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:a89bc909-7e8e-4bc5-8e85-0180239aa327",
     "companyId": "company_62b900b8e6a35e6bd1c78f9584fff32a",
     "company": "Doximity",
@@ -3127,35 +3339,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$55.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:c732ed9a-c5e2-444b-bdfe-eec6619bca18",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Forecasting Data Scientist",
-    "applyUrl": "https://go.landed.jobs/ka4jgqa",
-    "location": "Foster City, CA",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "AI and automation capabilities into regular data science workflows",
-      "developing advanced data science models",
-      "multiple programming languages (e.g., Python, R, Spark)",
-      "data science tools and technologies (e.g., TensorFlow, PyTorch, scikit-learn)",
-      "working with real-world data sets and building scalable models from large-scale data",
-      "deep learning, machine learning, recommendation systems, generative models, and statistical analyses"
-    ],
-    "posted": "2026-09-24T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -3563,34 +3746,6 @@
     ]
   },
   {
-    "dedupeKey": "job:bb2087f6-eeee-4779-9acf-c0f6cdd13984",
-    "companyId": "company_1fb60306dfee429de8a4090c4d118342",
-    "company": "Expedia",
-    "companyDomain": "expediagroup.com",
-    "role": "Data Scientist III, Media & Paid Social Analytics",
-    "applyUrl": "https://go.landed.jobs/mlrj3sn",
-    "location": "Seattle, WA",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "incrementality testing",
-      "marketing mix modeling (MMM)",
-      "cleanroom",
-      "experimentation"
-    ],
-    "posted": "2026-09-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$35.4B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:1d65352b-18b0-4951-b0b0-e585c25d9e9b",
     "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
     "company": "Adobe",
@@ -3612,77 +3767,6 @@
       "Adobe Analytics",
       "Experience Cloud",
       "Customer Journey Analytics"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2ecf8263-be8b-4406-9c11-2e8e4d0326bd",
-    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
-    "company": "Adobe",
-    "companyDomain": "adobe.com",
-    "role": "Data Scientist - Mobile",
-    "applyUrl": "https://go.landed.jobs/hlxnlqe",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "machine learning techniques",
-      "quantitative analysis",
-      "data modeling",
-      "SQL-like languages",
-      "statistical modeling",
-      "Data Visualization tools",
-      "Tableau",
-      "Power BI"
-    ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:552a0e8c-9856-4c65-9985-d2425680b3c4",
-    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
-    "company": "Adobe",
-    "companyDomain": "adobe.com",
-    "role": "Senior Data Scientist, ML— Fraud Prevention",
-    "applyUrl": "https://go.landed.jobs/bxz7st7",
-    "location": "Austin, TX +3",
-    "locations": [
-      "Austin, TX",
-      "Seattle, WA",
-      "New York City, NY",
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "ML models",
-      "statistical and classical ML techniques",
-      "Python",
-      "SQL",
-      "model monitoring",
-      "data visualization",
-      "anomaly detection",
-      "clustering",
-      "behavioral modeling",
-      "labeling frameworks",
-      "weak supervision",
-      "active learning"
     ],
     "posted": "2026-09-18T00:00:00.000Z",
     "companyTier": "B",
@@ -3791,6 +3875,42 @@
     "posted": "2026-09-18T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e86ca65c-a891-4f1b-87cc-230c8a724231",
+    "companyId": "company_d8aebc0a9913f5e085ee3299265b315c",
+    "company": "Adobe",
+    "companyDomain": "adobe.com",
+    "role": "Staff Data Scientist - International Product Marketing",
+    "applyUrl": "https://go.landed.jobs/bgdxf0u",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "SQL",
+      "BI tools",
+      "data visualization",
+      "market sizing",
+      "TAM/SAM analysis",
+      "performance analytics",
+      "Databricks",
+      "generative AI",
+      "AI-assisted coding tools",
+      "Claude Code",
+      "OpenAI Codex",
+      "GitHub Copilot"
+    ],
+    "posted": "2026-09-18T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$99.5B valuation",
       "Public"
     ]
   },
@@ -4093,42 +4213,13 @@
     ]
   },
   {
-    "dedupeKey": "job:c9213d18-5017-4ed8-bfa4-ebfc683f2026",
-    "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
-    "company": "Amgen",
-    "companyDomain": "amgen.com",
-    "role": "Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/7sczmm8",
+    "dedupeKey": "job:78029cbd-3299-44eb-9dd0-ba330f12da08",
+    "companyId": "company_adb658a3200847ea6e6658c0120ff933",
+    "company": "Acxiom",
+    "companyDomain": "acxiom.com",
+    "role": "Data Scientist Adobe",
+    "applyUrl": "https://go.landed.jobs/odolzjw",
     "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "intern",
-    "skills": [
-      "advanced statistical techniques",
-      "predictive models",
-      "data analysis",
-      "modeling",
-      "statistical analysis methods",
-      "automated capability to read unstructured data"
-    ],
-    "posted": "2026-09-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:322b783e-e190-4317-b259-231796c4b9bd",
-    "companyId": "company_e5ded49a0df105a06949ce51ed8fd890",
-    "company": "Fleetio",
-    "companyDomain": "fleetio.com",
-    "role": "Senior Applied Data Scientist, Fleet Intelligence",
-    "applyUrl": "https://go.landed.jobs/3vtmnv4",
-    "location": "🌐 Remote (US, Canada, Mexico)",
     "locations": [
       "US"
     ],
@@ -4137,49 +4228,48 @@
     "family": "data_science_analytics",
     "level": "senior",
     "skills": [
-      "time-series forecasting",
-      "regression",
-      "classification",
-      "ranking",
-      "anomaly detection",
-      "survival or reliability analysis",
-      "optimization",
-      "versioning",
-      "testing",
-      "deployment",
-      "observability",
-      "performance monitoring"
+      "Adobe Journey Analytics",
+      "Databricks",
+      "R",
+      "Python",
+      "SQL",
+      "Generative AI"
     ],
-    "posted": "2026-09-11T21:20:12.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.5B valuation",
-      "Series D"
-    ]
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:a5b30c5a-f3ea-4655-be05-4c5d35ecf444",
-    "companyId": "company_2412a11d937cd925979b43ccc383e95f",
-    "company": "Texas Instruments",
-    "companyDomain": "ti.com",
-    "role": "Web Marketing Program - Digital Experience Data Scientist",
-    "applyUrl": "https://go.landed.jobs/oo44zep",
-    "location": "Dallas, TX",
+    "dedupeKey": "job:31ed8f8f-2a18-4b5f-a935-81956aea0b7b",
+    "companyId": "company_dc47d7ce29a8c36324fa2c196f3e937f",
+    "company": "Rhythm Pharmaceuticals Inc.",
+    "companyDomain": "rhythmtx.com",
+    "role": "Federated Registry Data Scientist",
+    "applyUrl": "https://go.landed.jobs/n2d568e",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "Dallas, TX"
+      "Madrid, Spain",
+      "London, UK",
+      "Paris, France",
+      "Amsterdam, Netherlands"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "data_science_analytics",
     "level": "",
     "skills": [
-      "advanced analytics",
-      "machine learning",
-      "developing and deploying machine learning models",
-      "A/B tests"
+      "data collection (mapping, transformation, quality-check)",
+      "federated analyses specifications and outputs",
+      "OMOP CDM-based environment",
+      "healthcare data sources",
+      "clinical registries",
+      "electronic health records",
+      "claims databases",
+      "healthcare databases",
+      "real-world evidence projects"
     ],
-    "posted": "2026-09-11T20:56:00.000Z",
-    "companyTier": "B",
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "C",
     "companyBadges": [
       "Public"
     ]
@@ -4208,6 +4298,36 @@
     "companyTier": "C",
     "companyBadges": [
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:2cc48fb5-aa0d-4955-974b-f3ff5ddad9bd",
+    "companyId": "company_a2f28d1ba464a8597fcb17c63d12ae7e",
+    "company": "Turo",
+    "companyDomain": "turo.com",
+    "role": "Senior Data Scientist, Risk",
+    "applyUrl": "https://go.landed.jobs/0djls5k",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "statistics",
+      "optimization",
+      "ML",
+      "classification",
+      "regression",
+      "anomaly detection",
+      "time series"
+    ],
+    "posted": "2026-10-09T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$2B valuation"
     ]
   },
   {
@@ -4443,38 +4563,6 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:31ed8f8f-2a18-4b5f-a935-81956aea0b7b",
-    "companyId": "company_dc47d7ce29a8c36324fa2c196f3e937f",
-    "company": "Rhythm Pharmaceuticals Inc.",
-    "companyDomain": "rhythmtx.com",
-    "role": "Federated Registry Data Scientist",
-    "applyUrl": "https://go.landed.jobs/n2d568e",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "",
-    "skills": [
-      "data collection (mapping, transformation, quality-check)",
-      "federated analyses specifications and outputs",
-      "OMOP CDM-based environment",
-      "healthcare data sources",
-      "clinical registries",
-      "electronic health records",
-      "claims databases",
-      "healthcare databases",
-      "real-world evidence projects"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:0c6da1ad-aab1-46c5-a319-bade6d9edea3",
     "companyId": "company_10b17e7d27580fdbd30589ef6d439f75",
     "company": "NBC News",
@@ -4687,6 +4775,34 @@
     "companyTier": "C",
     "companyBadges": [
       "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:26c83fc3-86d5-40e2-b9f1-8fc10d653608",
+    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
+    "company": "Nectar Social",
+    "companyDomain": "nectarsocial.com",
+    "role": "Founding Data Scientist",
+    "applyUrl": "https://go.landed.jobs/w7p25um",
+    "location": "Palo Alto, CA · New York City, NY",
+    "locations": [
+      "Palo Alto, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "Advanced Python proficiency",
+      "expert SQL capabilities",
+      "software engineering fundamentals",
+      "writing clean, production-ready code"
+    ],
+    "posted": "2026-10-05T18:09:51.460Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
     ]
   },
   {
@@ -5047,32 +5163,6 @@
     "posted": "2026-10-01T16:23:43.753Z",
     "companyTier": "C",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:b66660bf-3d97-4b21-a607-eb29aabb2de2",
-    "companyId": "company_d0ba611b96b4643d38dd559675da61ce",
-    "company": "UpLabs",
-    "companyDomain": "uplabs.com",
-    "role": "Lead Data Scientist - Freight Intelligence",
-    "applyUrl": "https://go.landed.jobs/ppgd7gn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "data science or applied machine learning",
-      "building reliable datasets and labels",
-      "agent tracing tools such as LangSmith or Arize Phoenix"
-    ],
-    "posted": "2026-10-01T16:16:29.805Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
   },
   {
     "dedupeKey": "job:4ed5e149-6068-48bc-91ea-70db319dd74c",
@@ -6592,6 +6682,35 @@
     ]
   },
   {
+    "dedupeKey": "job:c9213d18-5017-4ed8-bfa4-ebfc683f2026",
+    "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
+    "company": "Amgen",
+    "companyDomain": "amgen.com",
+    "role": "Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/7sczmm8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "intern",
+    "skills": [
+      "advanced statistical techniques",
+      "predictive models",
+      "data analysis",
+      "modeling",
+      "statistical analysis methods",
+      "automated capability to read unstructured data"
+    ],
+    "posted": "2026-09-14T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:0940ba0e-c5c4-42c4-8e5c-53d4a3d68853",
     "companyId": "company_81f31273a665f6855c66309dbb18d69e",
     "company": "Obin AI",
@@ -6616,6 +6735,133 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:e8fbb62e-3508-47f4-96a4-f44ec66d16df",
+    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
+    "company": "Plaid",
+    "companyDomain": "plaid.com",
+    "role": "Data Scientist - Fraud",
+    "applyUrl": "https://go.landed.jobs/mibbt4o",
+    "location": "New York City, NY +2",
+    "locations": [
+      "New York City, NY",
+      "Seattle, WA",
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "Python",
+      "product analytics",
+      "experimentation",
+      "backtesting methodologies",
+      "reporting frameworks",
+      "core product metrics",
+      "ML models"
+    ],
+    "posted": "2026-09-12T05:51:49.839Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:322b783e-e190-4317-b259-231796c4b9bd",
+    "companyId": "company_e5ded49a0df105a06949ce51ed8fd890",
+    "company": "Fleetio",
+    "companyDomain": "fleetio.com",
+    "role": "Senior Applied Data Scientist, Fleet Intelligence",
+    "applyUrl": "https://go.landed.jobs/3vtmnv4",
+    "location": "🌐 Remote (US, Canada, Mexico)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "time-series forecasting",
+      "regression",
+      "classification",
+      "ranking",
+      "anomaly detection",
+      "survival or reliability analysis",
+      "optimization",
+      "versioning",
+      "testing",
+      "deployment",
+      "observability",
+      "performance monitoring"
+    ],
+    "posted": "2026-09-11T21:20:12.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:a5b30c5a-f3ea-4655-be05-4c5d35ecf444",
+    "companyId": "company_2412a11d937cd925979b43ccc383e95f",
+    "company": "Texas Instruments",
+    "companyDomain": "ti.com",
+    "role": "Web Marketing Program - Digital Experience Data Scientist",
+    "applyUrl": "https://go.landed.jobs/oo44zep",
+    "location": "Dallas, TX",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "",
+    "skills": [
+      "advanced analytics",
+      "machine learning",
+      "developing and deploying machine learning models",
+      "A/B tests"
+    ],
+    "posted": "2026-09-11T20:56:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dd01c066-2245-4b3a-a7fd-a5d2bdc0e919",
+    "companyId": "company_37af3fd55de19c5ed0c5e4674070701e",
+    "company": "Axon",
+    "companyDomain": "axon.com",
+    "role": "Senior Data Scientist - Product Intelligence Analytics",
+    "applyUrl": "https://go.landed.jobs/hggyrp7",
+    "location": "Washington, WA",
+    "locations": [
+      "Washington, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "data modeling",
+      "statistical techniques — segmentation, experimentation, forecasting",
+      "A/B testing",
+      "feature flags",
+      "AWS-based tooling"
+    ],
+    "posted": "2026-09-11T06:37:44.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$42.5B valuation"
     ]
   },
   {
@@ -7231,38 +7477,6 @@
     ]
   },
   {
-    "dedupeKey": "job:dbe415a1-168b-45df-b8f2-297c8beab8b9",
-    "companyId": "company_60247b7ec0a44b2ba8de76451429b35a",
-    "company": "Enova International",
-    "companyDomain": "enova.com",
-    "role": "Senior Data Scientist - Marketing (Hybrid)",
-    "applyUrl": "https://go.landed.jobs/5vhxzwt",
-    "location": "Chicago, IL",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "applied statistical methods",
-      "machine learning models",
-      "value-based bidding",
-      "lifetime value estimation",
-      "unit economics modeling",
-      "deploying models into production systems",
-      "building automated data pipelines"
-    ],
-    "posted": "2026-09-08T17:31:03.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:d82e382a-2a17-4bf1-954a-d6c393ae5c08",
     "companyId": "company_9ab7743f77d4d40e11ddc22ecb832f02",
     "company": "Flex",
@@ -7348,37 +7562,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$1.6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:bd0c8b87-f447-4415-bc4c-4e085e22efe3",
-    "companyId": "company_adf934c7126cde9a756695d296f8bbec",
-    "company": "eBay",
-    "companyDomain": "ebay.com",
-    "role": "SEO Data Scientist",
-    "applyUrl": "https://go.landed.jobs/mcqmaj7",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Python",
-      "R",
-      "statistical methods",
-      "experimentation",
-      "machine learning",
-      "predictive modeling"
-    ],
-    "posted": "2026-09-08T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$50.6B valuation",
       "Public"
     ]
   },
@@ -7560,41 +7743,6 @@
     "companyBadges": [
       "$850M valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:65364090-8fa3-4d31-91cc-3cdec9567f5a",
-    "companyId": "company_f06599fc885e0047b386cf90ef11e77c",
-    "company": "Bestow",
-    "companyDomain": "bestow.com",
-    "role": "Senior Data Scientist",
-    "applyUrl": "https://go.landed.jobs/t26m6lg",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "machine learning models",
-      "classification",
-      "regression",
-      "anomaly detection",
-      "feature engineering",
-      "SQL",
-      "Python",
-      "BigQuery",
-      "LLMs",
-      "agentic systems",
-      "Claude Code",
-      "Cursor"
-    ],
-    "posted": "2026-09-03T20:59:49.785Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series D"
     ]
   },
   {
@@ -9092,36 +9240,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2cc48fb5-aa0d-4955-974b-f3ff5ddad9bd",
-    "companyId": "company_a2f28d1ba464a8597fcb17c63d12ae7e",
-    "company": "Turo",
-    "companyDomain": "turo.com",
-    "role": "Senior Data Scientist, Risk",
-    "applyUrl": "https://go.landed.jobs/0djls5k",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "statistics",
-      "optimization",
-      "ML",
-      "classification",
-      "regression",
-      "anomaly detection",
-      "time series"
-    ],
-    "posted": "2026-08-26T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$2B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:61a56d05-4775-46b8-8507-2a69fe8df4d6",
     "companyId": "company_a3a52f19b03c26e68e03090f49b6d9e5",
     "company": "Embedding VC",
@@ -9144,128 +9262,5 @@
     "posted": "2026-08-25T22:20:57.259Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:a52b1505-6032-4481-823e-cd263b72e66b",
-    "companyId": "company_56e717f58cc9ecdf3f4f3563e908361e",
-    "company": "AST SpaceMobile",
-    "companyDomain": "ast-science.com",
-    "role": "Fleet Scheduler Data Scientist",
-    "applyUrl": "https://go.landed.jobs/jddxq6z",
-    "location": "Lanham, MD",
-    "locations": [
-      "Lanham, MD"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "",
-    "skills": [
-      "solving large-scale combinatorial optimization problems",
-      "modeling and solving large-scale problems represented as graphs or heterogeneous graph structures",
-      "building data pipelines and deploying models into operational systems",
-      "reinforcement learning",
-      "multi-agent systems",
-      "hybrid ML + optimization",
-      "building real-time or safety-critical decision systems"
-    ],
-    "posted": "2026-08-25T19:44:54.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d9811a1c-30b4-4a08-a03f-238f8e1a53ff",
-    "companyId": "company_4f814c75bf30a0cc63f884411481449c",
-    "company": "Notion",
-    "companyDomain": "notion.com",
-    "role": "Data Scientist, Growth",
-    "applyUrl": "https://go.landed.jobs/877eigy",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "",
-    "skills": [
-      "statistical inference",
-      "experimentation",
-      "build predictive models",
-      "evaluate their effectiveness",
-      "build foundational datasets"
-    ],
-    "posted": "2026-08-25T14:27:12.904Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$11B valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:5d91a286-4882-49ce-8608-d28409193d87",
-    "companyId": "company_e13396b2381453a8a61f98cea44f2af6",
-    "company": "Agilent",
-    "companyDomain": "agilent.com",
-    "role": "IBP Supply Planning Data Scientist",
-    "applyUrl": "https://go.landed.jobs/6r4cvr0",
-    "location": "🌐 Remote (Singapore, Malaysia, India +3)",
-    "locations": [
-      "Newport, DE",
-      "Folsom, CA",
-      "Wilmington, DE",
-      "Santa Clara, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "predictive modeling",
-      "machine learning",
-      "statistical analysis",
-      "Python",
-      "R",
-      "SQL",
-      "Tableau",
-      "Power BI",
-      "Qlik",
-      "Spotfire"
-    ],
-    "posted": "2026-08-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$39.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8a0f5023-224c-4e19-bc72-9c64ae772864",
-    "companyId": "company_bd94952bdd12c078bebf458f20ef827e",
-    "company": "Gilead",
-    "companyDomain": "gilead.com",
-    "role": "Clinical Data Scientist -RWE Data Analysis Oversight Lead: Inflammation",
-    "applyUrl": "https://go.landed.jobs/o8v4y9z",
-    "location": "Parsippany, NJ · Foster City, CA",
-    "locations": [
-      "Parsippany, NJ",
-      "Foster City, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "",
-    "skills": [
-      "SAS",
-      "R",
-      "OMOP"
-    ],
-    "posted": "2026-08-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
   }
 ]
