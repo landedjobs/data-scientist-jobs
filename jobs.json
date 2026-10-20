@@ -1,5 +1,33 @@
 [
   {
+    "dedupeKey": "job:5fb3ce16-655f-4346-ba88-9240f90fe211",
+    "companyId": "company_53193994ec9a9c6bb5c9f850d56b4cc5",
+    "company": "Airbnb",
+    "companyDomain": "airbnb.com",
+    "role": "Senior Data Scientist, People Analytics & Research",
+    "applyUrl": "https://go.landed.jobs/hteoyqi",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "causal inference",
+      "quasi-experimental research design and analysis",
+      "statistical models",
+      "data science methodologies"
+    ],
+    "posted": "2026-10-19T18:59:06.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Marketplace 50",
+      "$89.9B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:34283a3c-e774-4b36-b50e-9e6c897c23dc",
     "companyId": "company_e215e7f0632b5dcf7cfe0ddc13e85c35",
     "company": "ŌURA",
@@ -1482,6 +1510,166 @@
     ]
   },
   {
+    "dedupeKey": "job:103d3db1-6cae-4ef7-8ad0-1a9142348e83",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Principal Data Scientist",
+    "applyUrl": "https://go.landed.jobs/9121xqp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "principal",
+    "skills": [
+      "Python",
+      "SQL",
+      "PyTorch",
+      "TensorFlow",
+      "generative AI",
+      "LLM APIs",
+      "AI coding assistants",
+      "agent frameworks",
+      "reinforcement learning",
+      "multi-armed bandits",
+      "transformers",
+      "Azure ML"
+    ],
+    "posted": "2026-10-19T15:53:17.191Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:049cb045-1ad4-48cb-aac5-847d5e839170",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://go.landed.jobs/3d01ry5",
+    "location": "North Chicago, IL",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "statistical programming package (e.g., R, SAS, JMP, Minitab)",
+      "Python",
+      "SQL",
+      "relational databases (Teradata, Oracle etc.)",
+      "BI tools (PowerBI, Qliksense)",
+      "data visualization/pipelining tools (e.g., Spotfire, Tableau, Pipeline Pilot etc.)",
+      "automated statistical process control platforms (e.g., Discoverant, Statistica, NWA, etc.)"
+    ],
+    "posted": "2026-10-19T13:22:37.521Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:1fc8ad2b-3229-4482-98a9-a9f2cf5187ae",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Data Scientist",
+    "applyUrl": "https://go.landed.jobs/a4eedus",
+    "location": "Stafford, VA",
+    "locations": [
+      "Stafford, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "",
+    "skills": [
+      "data exploration, data cleaning, data analysis, data visualization, or data mining",
+      "statistical and general-purpose programming languages for data analysis",
+      "R, Python, or SQL and NoSQL",
+      "Palantir Foundry, War Data Platform (WDP), Advana, or Databricks"
+    ],
+    "posted": "2026-10-19T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:572d9b0f-7f0a-4caf-8337-60e62e609681",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Data Scientist, Senior",
+    "applyUrl": "https://go.landed.jobs/sgegurh",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "R",
+      "Python",
+      "SQL",
+      "NoSQL",
+      "MapReduce",
+      "Hadoop",
+      "Hive",
+      "EMR",
+      "Kafka",
+      "Spark",
+      "Palantir Foundry",
+      "Power BI"
+    ],
+    "posted": "2026-10-19T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f2ddac81-9795-4be1-b860-363fbff28df8",
+    "companyId": "company_8a89bea6611f3e4a492f67ac79d30279",
+    "company": "Chewy",
+    "companyDomain": "chewy.com",
+    "role": "Data Scientist III",
+    "applyUrl": "https://go.landed.jobs/f8loo0y",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "machine learning",
+      "statistics",
+      "AI",
+      "ML/Stats models",
+      "agentic AI workflows",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Databricks"
+    ],
+    "posted": "2026-10-19T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$9.3B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:b3214407-851a-4b8a-9b2d-90ad3b0cb5b8",
     "companyId": "company_226a24c1607086b96a839715378894e7",
     "company": "Lyft",
@@ -1881,36 +2069,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a9fa9e62-ddcc-4ea7-8171-fd904af65452",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Senior Data Scientist",
-    "applyUrl": "https://go.landed.jobs/lo8ztbd",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "machine learning frameworks such as Scikit-Learn, XGBoost, LightGBM, TensorFlow, or PyTorch",
-      "predictive, classification, forecasting, recommendation, or optimization models",
-      "large-scale data platforms and cloud-based environments",
-      "modern software development and version control practices",
-      "cloud platforms such as AWS, Azure, or Google Cloud",
-      "Snowflake, Databricks, Spark, or other large-scale data environments",
-      "Generative AI or Large Language Model solutions"
-    ],
-    "posted": "2026-10-15T21:49:41.771Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:2e75146a-951b-4209-82e0-0c5e346d96a5",
     "companyId": "company_a846c8062a35aa46af3453146f069619",
     "company": "Duolingo",
@@ -2038,6 +2196,32 @@
       "Scala",
       "R",
       "SQL"
+    ],
+    "posted": "2026-10-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8f2e82eb-fa3d-4777-bfc7-ac6c10484e22",
+    "companyId": "company_bd94952bdd12c078bebf458f20ef827e",
+    "company": "Gilead",
+    "companyDomain": "gilead.com",
+    "role": "Sr Analyst, Data Scientist",
+    "applyUrl": "https://go.landed.jobs/zlelt6h",
+    "location": "Foster City, CA",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python programming",
+      "computer vision",
+      "machine learning model lifecycle"
     ],
     "posted": "2026-10-15T00:00:00.000Z",
     "companyTier": "B",
@@ -2174,79 +2358,9 @@
     ]
   },
   {
-    "dedupeKey": "job:05068197-2a3e-456a-9ebb-5920b275b60e",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Palantir Data Scientist",
-    "applyUrl": "https://go.landed.jobs/hg7ce65",
-    "location": "Springfield, VA",
-    "locations": [
-      "Springfield, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "data exploration",
-      "data cleaning",
-      "data analysis",
-      "data visualization",
-      "data mining",
-      "Python",
-      "R",
-      "Palantir Foundry",
-      "SQL",
-      "Power BI",
-      "Spark",
-      "Plotly"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:06fbca79-1aec-49a3-a429-993ae79ceb66",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Palantir Data Scientist",
-    "applyUrl": "https://go.landed.jobs/r0cju34",
-    "location": "Springfield, VA",
-    "locations": [
-      "Springfield, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "R",
-      "SQL",
-      "Palantir Foundry",
-      "Gotham",
-      "Power BI",
-      "NoSQL",
-      "MapReduce",
-      "Hadoop",
-      "Spark",
-      "Kafka",
-      "MySQL"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:fcac20cc-85ef-4052-86fe-ed4c9d6b45ea",
     "companyId": "company_9d61174c99bfe8e347abf2cf62b6ad55",
-    "company": "Search results | Trane Technologies",
+    "company": "Trane Technologies",
     "companyDomain": "tranetechnologies.com",
     "role": "Senior Data Scientist",
     "applyUrl": "https://go.landed.jobs/pj2shd5",
@@ -2361,38 +2475,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b2a30a4b-ce3f-4c11-afea-07aad1715c8a",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Associate Data Scientist I",
-    "applyUrl": "https://go.landed.jobs/4553w9n",
-    "location": "North Chicago, IL",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "entry",
-    "skills": [
-      "python",
-      "SQL",
-      "data storage",
-      "data transfer",
-      "data integration",
-      "data visualization",
-      "analytics",
-      "Spotfire",
-      "CI/CD tools"
-    ],
-    "posted": "2026-10-12T21:57:45.037Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:aeeb3b5b-2cc4-45af-b455-0deb55907e94",
     "companyId": "company_3858065f9699d14a4d37610612bd2517",
     "company": "Engine",
@@ -2487,6 +2569,38 @@
     "posted": "2026-10-12T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4460a073-36a7-44ce-ae45-b1dafa2aa9e3",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Data Scientist (Houston, Texas)",
+    "applyUrl": "https://go.landed.jobs/oad0ff6",
+    "location": "Houston, TX · Texas, TX",
+    "locations": [
+      "Houston, TX",
+      "Texas, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "machine learning",
+      "data integration",
+      "mathematical modeling",
+      "ETL tools",
+      "Informatica",
+      "Ab Initio",
+      "Talend"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
       "Public"
     ]
   },
@@ -2682,6 +2796,41 @@
       "LLMOps"
     ],
     "posted": "2026-10-09T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:786963d7-f2ea-4d77-b734-667f21539db2",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Data Scientist",
+    "applyUrl": "https://go.landed.jobs/y2elltb",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "Power BI",
+      "SAP HANA",
+      "Snowflake",
+      "SharePoint",
+      "GitHub Copilot",
+      "Claude",
+      "Python",
+      "machine learning models",
+      "Git",
+      "Claude Code",
+      "OpenAI Codex",
+      "scikit-learn"
+    ],
+    "posted": "2026-10-08T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
       "Public"
@@ -3164,61 +3313,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$13.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4a4e68f1-0d69-46f9-990c-017f9ff3bb3c",
-    "companyId": "company_46f33d5f0982c8afafffef1676187eb3",
-    "company": "Arcadia",
-    "companyDomain": "arcadia.com",
-    "role": "Sr. Data Scientist",
-    "applyUrl": "https://go.landed.jobs/tj029ll",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "machine learning",
-      "AI",
-      "Python",
-      "LLMs",
-      "agentic workflows"
-    ],
-    "posted": "2026-10-05T22:51:14.546Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.5B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:8f2e82eb-fa3d-4777-bfc7-ac6c10484e22",
-    "companyId": "company_bd94952bdd12c078bebf458f20ef827e",
-    "company": "Gilead",
-    "companyDomain": "gilead.com",
-    "role": "Sr Analyst, Data Scientist",
-    "applyUrl": "https://go.landed.jobs/zlelt6h",
-    "location": "Foster City, CA",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python programming",
-      "computer vision",
-      "machine learning model lifecycle"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -4352,6 +4446,34 @@
     ]
   },
   {
+    "dedupeKey": "job:26c83fc3-86d5-40e2-b9f1-8fc10d653608",
+    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
+    "company": "Nectar Social",
+    "companyDomain": "nectarsocial.com",
+    "role": "Founding Data Scientist",
+    "applyUrl": "https://go.landed.jobs/w7p25um",
+    "location": "Palo Alto, CA · New York City, NY",
+    "locations": [
+      "Palo Alto, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "Advanced Python proficiency",
+      "expert SQL capabilities",
+      "software engineering fundamentals",
+      "writing clean, production-ready code"
+    ],
+    "posted": "2026-10-12T20:34:29.096Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:31ed8f8f-2a18-4b5f-a935-81956aea0b7b",
     "companyId": "company_dc47d7ce29a8c36324fa2c196f3e937f",
     "company": "Rhythm Pharmaceuticals Inc.",
@@ -4383,6 +4505,39 @@
     "posted": "2026-10-12T00:00:00.000Z",
     "companyTier": "C",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d8c77f88-557d-497d-8fa9-59d2caa54860",
+    "companyId": "company_f11e0d970ebd8027847d13c8baf5579c",
+    "company": "Digital Turbine",
+    "companyDomain": "digitalturbine.com",
+    "role": "Lead Data Scientist",
+    "applyUrl": "https://go.landed.jobs/ibzjb4d",
+    "location": "New York City, NY · Berlin, Germany",
+    "locations": [
+      "New York City, NY",
+      "Berlin, Germany"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "machine learning",
+      "experimentation frameworks",
+      "metrics semantic layers",
+      "enterprise experimentation tools",
+      "quantitative analysis",
+      "AdTech",
+      "two-sided marketplaces",
+      "consumer-scale data platforms"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$970M valuation",
       "Public"
     ]
   },
@@ -4587,6 +4742,32 @@
     "posted": "2026-10-08T00:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:62245a32-5363-4695-82b3-908f5d264b22",
+    "companyId": "company_5a6420a5ad47846e6ff1b2e404d6195a",
+    "company": "LendingClub",
+    "companyDomain": "happen.com",
+    "role": "Associate Data Scientist, Fraud Strategy",
+    "applyUrl": "https://go.landed.jobs/i6r08hq",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau"
+    ],
+    "posted": "2026-10-08T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
   },
   {
     "dedupeKey": "job:83530b93-68c6-4d78-84dc-fe3f18ccae38",
@@ -4800,34 +4981,6 @@
     ]
   },
   {
-    "dedupeKey": "job:26c83fc3-86d5-40e2-b9f1-8fc10d653608",
-    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
-    "company": "Nectar Social",
-    "companyDomain": "nectarsocial.com",
-    "role": "Founding Data Scientist",
-    "applyUrl": "https://go.landed.jobs/w7p25um",
-    "location": "Palo Alto, CA · New York City, NY",
-    "locations": [
-      "Palo Alto, CA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "Advanced Python proficiency",
-      "expert SQL capabilities",
-      "software engineering fundamentals",
-      "writing clean, production-ready code"
-    ],
-    "posted": "2026-10-05T18:09:51.460Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:a6cabbb1-13bc-4e6e-953b-8b1296514251",
     "companyId": "company_a3f965462a019297ed7ca264aee5a3c6",
     "company": "Qventus, Inc",
@@ -4982,9 +5135,10 @@
     "companyDomain": "liveramp.fr",
     "role": "Senior Data Scientist - Identity",
     "applyUrl": "https://go.landed.jobs/000e8lo",
-    "location": "San Francisco, CA",
+    "location": "Seattle, WA · New York City, NY",
     "locations": [
-      "San Francisco, CA"
+      "Seattle, WA",
+      "New York City, NY"
     ],
     "remote": "hybrid",
     "region": "us",
@@ -5006,39 +5160,6 @@
     "posted": "2026-10-02T03:47:38.693Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:d8c77f88-557d-497d-8fa9-59d2caa54860",
-    "companyId": "company_f11e0d970ebd8027847d13c8baf5579c",
-    "company": "Digital Turbine",
-    "companyDomain": "digitalturbine.com",
-    "role": "Lead Data Scientist",
-    "applyUrl": "https://go.landed.jobs/ibzjb4d",
-    "location": "New York City, NY · Berlin, Germany",
-    "locations": [
-      "New York City, NY",
-      "Berlin, Germany"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "staff",
-    "skills": [
-      "machine learning",
-      "experimentation frameworks",
-      "metrics semantic layers",
-      "enterprise experimentation tools",
-      "quantitative analysis",
-      "AdTech",
-      "two-sided marketplaces",
-      "consumer-scale data platforms"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$970M valuation",
-      "Public"
-    ]
   },
   {
     "dedupeKey": "job:da6fb633-febf-4921-96bd-2765952ce3d9",
@@ -7659,39 +7780,6 @@
     ]
   },
   {
-    "dedupeKey": "job:df2b57f0-b4cd-48a1-95c6-a61315e57514",
-    "companyId": "company_0fa3d40aff36fa2be290e9ca55b92715",
-    "company": "Spotify",
-    "companyDomain": "spotify.com",
-    "role": "Data Scientist - Music Promotion",
-    "applyUrl": "https://go.landed.jobs/4aa2kte",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "",
-    "skills": [
-      "Python",
-      "DBT",
-      "BigQuery",
-      "SQL",
-      "Tableau",
-      "experimentation",
-      "product analytics",
-      "exploratory analysis",
-      "instrumentation"
-    ],
-    "posted": "2026-09-10T13:13:31.096Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Digital Media 50",
-      "$103B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:87f6f5fb-8285-430e-b27d-f8cbff8ee968",
     "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
     "company": "Amgen",
@@ -9158,98 +9246,6 @@
     "companyBadges": [
       "TrueUp Crypto 50",
       "$13.2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:ae112446-e9d9-4037-8ea9-79660e5cd12c",
-    "companyId": "company_90ce957778d13b453b7416c943e1720b",
-    "company": "Reddit, Inc.",
-    "companyDomain": "reddit.com",
-    "role": "Senior Data Scientist, Ads Integrity",
-    "applyUrl": "https://go.landed.jobs/dllec5n",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Data Science",
-      "Applied Science",
-      "fraud taxonomies",
-      "sampling plans",
-      "metrics",
-      "evaluation frameworks",
-      "large, complex datasets",
-      "detection thresholds",
-      "enforcement strategies",
-      "AI and large language models (LLMs)",
-      "graph or network analysis",
-      "clustering"
-    ],
-    "posted": "2026-08-27T20:49:14.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Digital Media 50",
-      "$27.1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6fc6ebb1-02ff-41d9-ae92-1b71905bf509",
-    "companyId": "company_9f0bc99d477b29c925ac7fd365e873a8",
-    "company": "Arlo",
-    "companyDomain": "joinarlo.com",
-    "role": "Senior Data Scientist",
-    "applyUrl": "https://go.landed.jobs/i2eo8t9",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "underwriting model",
-      "claims history",
-      "healthcare data",
-      "ML engineering and infrastructure"
-    ],
-    "posted": "2026-08-27T18:13:10.966Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:d7a4b7ea-3102-48e7-ae34-a8da3f26bac1",
-    "companyId": "company_7a2ccbb95a0adccd1504478e83cfe54d",
-    "company": "Strava",
-    "companyDomain": "strava.com",
-    "role": "Lead Data Scientist, Data Products",
-    "applyUrl": "https://go.landed.jobs/e3sq8lz",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "staff",
-    "skills": [
-      "model evaluation",
-      "measurement strategy",
-      "experimentation",
-      "monitoring",
-      "drift detection"
-    ],
-    "posted": "2026-08-27T05:15:59.967Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.2B valuation",
-      "Series F"
     ]
   }
 ]
