@@ -32,6 +32,125 @@
     ]
   },
   {
+    "dedupeKey": "job:1ca2eaa7-60e5-4144-bd3b-ed10d1728225",
+    "companyId": "company_7a8569f91687be20e65aff29922faa5d",
+    "company": "Fireworks AI",
+    "companyDomain": "fireworks.ai",
+    "role": "Founding Data Scientist, Capacity & Pricing Optimization",
+    "applyUrl": "https://go.landed.jobs/u4uxxmg",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "optimization tooling & methodologies",
+      "coding",
+      "data pipelines"
+    ],
+    "posted": "2026-10-29T20:07:04.897Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$17.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:72d9e9b1-2d16-476e-bbb6-329ff95e7cc1",
+    "companyId": "company_30b596a3b873c01c3a8e1ad2ce1b9538",
+    "company": "Veeva Systems",
+    "companyDomain": "veeva.com",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://go.landed.jobs/merxetg",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "statistical and machine learning techniques",
+      "healthcare claims data",
+      "entity resolution",
+      "record linkage",
+      "fuzzy matching",
+      "clinical ontologies",
+      "healthcare data models"
+    ],
+    "posted": "2026-10-29T18:24:33.939Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$33.1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d07ba208-359a-4398-bfc2-375773ab39d2",
+    "companyId": "company_30b596a3b873c01c3a8e1ad2ce1b9538",
+    "company": "Veeva Systems",
+    "companyDomain": "veeva.com",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://go.landed.jobs/xqb4q0t",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-29T18:22:14.527Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$33.1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0eb4e5b9-b45b-470e-9232-975491ea995f",
+    "companyId": "company_626697f0f66c3e98fc4f2d16874d9c9d",
+    "company": "Tempus Labs",
+    "companyDomain": "tempus.com",
+    "role": "Senior Data Scientist, RWD Analytics",
+    "applyUrl": "https://go.landed.jobs/cvvcnci",
+    "location": "Chicago, IL +3",
+    "locations": [
+      "Chicago, IL",
+      "Boston, MA",
+      "Redwood City, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "ETL pipelines",
+      "statistical analysis",
+      "data quality frameworks",
+      "YAML configurations",
+      "data profiling tools",
+      "matplotlib",
+      "seaborn",
+      "Plotly",
+      "Tableau"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$7.9B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:1828704e-dd2e-491d-9e35-e6b70a6e8598",
     "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
     "company": "OpenAI",
@@ -9140,125 +9259,5 @@
       "TrueUp Remote 200",
       "$42.5B valuation"
     ]
-  },
-  {
-    "dedupeKey": "job:817907d6-4986-439f-af81-b5d00bcc941e",
-    "companyId": "company_1602175679fde8ffc08d94936224d391",
-    "company": "Academy Sports + Outdoors",
-    "companyDomain": "academy.com",
-    "role": "Sr Data Scientist Real Estate",
-    "applyUrl": "https://go.landed.jobs/opi72d7",
-    "location": "Katy, TX",
-    "locations": [
-      "Katy, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "predictive modeling",
-      "machine learning",
-      "statistical analysis",
-      "experimentation",
-      "business analytics",
-      "SQL",
-      "Google BigQuery",
-      "generative AI"
-    ],
-    "posted": "2026-09-11T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:7f51e29d-c0b7-49f2-957b-9ecd5f571bcf",
-    "companyId": "company_fb2c54d9f3025a081c8429a119f993dd",
-    "company": "Ascend",
-    "companyDomain": "useascend.com",
-    "role": "Data Scientist, Product",
-    "applyUrl": "https://go.landed.jobs/qlzxlae",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Slack",
-      "Notion",
-      "Excel",
-      "Front",
-      "Linear"
-    ],
-    "posted": "2026-09-10T20:49:46.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:a426e90d-094f-4847-ad87-2bcebafb6b9f",
-    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
-    "company": "Plaid",
-    "companyDomain": "plaid.com",
-    "role": "Senior Data Scientist - Embedded Insights",
-    "applyUrl": "https://go.landed.jobs/qqyjfgt",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "analytics",
-      "metrics",
-      "machine learning model development",
-      "evaluating model performance",
-      "data pipelines",
-      "dbt",
-      "Airflow"
-    ],
-    "posted": "2026-09-10T19:33:13.989Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:78b5dc68-ada8-49d8-bc39-64453086ff4e",
-    "companyId": "company_80582f4bdcd1905d8e8b2b855386b30a",
-    "company": "Tinder",
-    "companyDomain": "tinder.com",
-    "role": "Data Scientist, Marketing Analytics",
-    "applyUrl": "https://go.landed.jobs/sjxwjc8",
-    "location": "New York City, NY · Los Angeles, CA",
-    "locations": [
-      "New York City, NY",
-      "Los Angeles, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "data wrangling",
-      "statistics",
-      "econometric modeling",
-      "A/B testing",
-      "bayesian regressions",
-      "geo experiments",
-      "Python"
-    ],
-    "posted": "2026-09-10T19:01:19.186Z",
-    "companyTier": "U",
-    "companyBadges": []
   }
 ]
