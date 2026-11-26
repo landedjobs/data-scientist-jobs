@@ -1431,35 +1431,6 @@
     ]
   },
   {
-    "dedupeKey": "job:44ff45fe-d7b7-437d-8e9b-22d0424c947a",
-    "companyId": "company_420fca1f6f86287bc1e902ad8f9c8773",
-    "company": "TRM Labs",
-    "companyDomain": "trmlabs.com",
-    "role": "Senior Data Scientist, Knowledge Layer",
-    "applyUrl": "https://go.landed.jobs/3omo2yj",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "machine learning",
-      "knowledge graphs",
-      "graph data",
-      "graph-based ML"
-    ],
-    "posted": "2026-10-27T16:04:59.645Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S19",
-      "$2B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:56f37251-772e-43b7-9524-6c0ad9a7be8b",
     "companyId": "company_ff5ad0cf448833958ae8a75a7fab75c9",
     "company": "BILL",
@@ -5028,6 +4999,35 @@
     ]
   },
   {
+    "dedupeKey": "job:44ff45fe-d7b7-437d-8e9b-22d0424c947a",
+    "companyId": "company_420fca1f6f86287bc1e902ad8f9c8773",
+    "company": "TRM Labs",
+    "companyDomain": "trmlabs.com",
+    "role": "Senior Data Scientist, Knowledge Layer",
+    "applyUrl": "https://go.landed.jobs/3omo2yj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "machine learning",
+      "knowledge graphs",
+      "graph data",
+      "graph-based ML"
+    ],
+    "posted": "2026-10-27T16:04:59.645Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S19",
+      "$2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b6d6ec45-92f6-4f5d-a590-6bd19b88373f",
     "companyId": "company_62d1417dc75c6e37214693403dfdfdaa",
     "company": "DataVisor",
@@ -6597,6 +6597,40 @@
     "posted": "2026-10-20T00:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:a83f1e07-0b7b-47af-9066-c36c29dffbe5",
+    "companyId": "company_fde271a15d118b0044779e02dba5c0d3",
+    "company": "Wiley",
+    "companyDomain": "wiley.com",
+    "role": "Principal Data Scientist",
+    "applyUrl": "https://go.landed.jobs/kc7hrt6",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "staff",
+    "skills": [
+      "NLP",
+      "Applied AI",
+      "AWS",
+      "S3",
+      "Batch",
+      "Lambda",
+      "SageMaker",
+      "Parquet",
+      "Iceberg",
+      "LLMs",
+      "agentic AI applications"
+    ],
+    "posted": "2026-10-20T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
   },
   {
     "dedupeKey": "job:f88d0cd3-6ebe-4cb4-a7ba-32edb611e503",
@@ -8717,39 +8751,6 @@
     "posted": "2026-10-01T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6ce2470f-8eca-4a2b-b0b2-b724678e745d",
-    "companyId": "company_1fee75861cd52e00610db350de64ef91",
-    "company": "Hippo",
-    "companyDomain": "hippo.com",
-    "role": "Insurance Data Scientist",
-    "applyUrl": "https://go.landed.jobs/9zy7nad",
-    "location": "Austin, TX +4",
-    "locations": [
-      "Austin, TX",
-      "Dallas, TX",
-      "Morristown, NJ",
-      "San Jose, CA",
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Airflow",
-      "catastrophe modeling",
-      "geospatial analytics",
-      "climate risk data"
-    ],
-    "posted": "2026-09-30T21:03:13.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$820M valuation",
       "Public"
     ]
   }
